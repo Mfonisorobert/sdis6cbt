@@ -1,252 +1,304 @@
-[ 
-  { 
-	"question": "My father _______ every weekend.", 
-	"options": ["cook", "cooked", "cooks", "cooking"], 
-	"answer": "cooks" 
-  }, 
-  { 
-	"question": "A _______ of musicians performed during the swearing-in ceremony of the president.", 
-	"options": ["choir", "group", "band", "team"], 
-	"answer": "band" 
-  }, 
-  { 
-	"question": "All the girls in the party quarrelled with _______.", 
-	"options": ["each other", "one another", "themselves", "theirselves"], 
-	"answer": "one another" 
-  }, 
-  { 
-	"question": "The principal sent Jessica and ______ on an errand.", 
-	"options": ["myself", "himself", "I", "me"], 
-    "answer": "me" 
-  }, 
-  { 
-	"question": "The baby cried ________ when it was hungry.", 
-	"options": ["loud", "loudly", "louder", "loudest"], 
-	"answer": "louder" 
-  }, 
-  { 
-	"question": "He ______ scrubbed the floor to remove the stains on the tiles.", 
-	"options": ["firmly", "hardly", "sluggishly", "thoroughly"], 
-	"answer": "thoroughly" 
-  }, 
-  { 
-	"question": "Nelly and her brother are always very fond of ______.", 
-	"options": ["one another", "themselves", "each other", "theirselves"], 
-	"answer": "each other" 
-  }, 
-  { 
-	"question": "Which sentence contains an adjective?", 
-	"options": ["She danced gracefully", "The soup tastes sweet.", "The boy runs fast.", "They arrived early"], 
-	"answer": "The soup tastes sweet." 
-  }, 
-  { 
-	"question": "The family head has always advised every other member to always endeavour to care for _______.", 
-	"options": ["one another", "each other", "themselves", "himself"], 
-	"answer": "one another" 
-  }, 
-  { 
-	"question": "The boy’s father always _____ them to school on a daily basis.", 
-	"options": ["brought", "brings", "bringing", "bring"], 
-	"answer": "brings" 
-  }, 
-  { 
-	"question": "Does your father always _________ his new car?", 
-	"options": ["drives", "drove", "drive", "driving"], 
-	"answer": "drive" 
-  }, 
-  { 
-	"question": "My teacher _______ us ever since the term began.", 
-	"options": ["taught", "teaches", "has been teaching", "has taught"], 
-	"answer": "has been teaching" 
-  }, 
-  { 
-	"question": "He has no money to attend the cinema; ________ his mother will not allow him.", 
-	"options": ["thus", "until", "when", "nevertheless"], 
-	"answer": "nevertheless" 
-  }, 
-  { 
-	"question": "David, Maureen and _______ were invited to a birthday party.", 
-	"options": ["me", "I", "mine", "her"], 
-	"answer": "I" 
-  }, 
-  { 
-	"question": "She must have ______ to the church where all the family members worship.", 
-	"options": ["go", "going", "gone", "went"], 
-	"answer": "gone" 
-  }, 
-  { 
-	"question": "I would like to buy ______ umbrella as it seems rainy season is quite approaching.", 
-	"options": ["some", "a few", "an", "a"], 
-	"answer": "an" 
-  }, 
-  { 
-	"question": "Mr. Jones _____ visit his children at all times.", 
-	"options": ["goes", "wents", "go", "has gone"], 
-	"answer": "goes" 
-  }, 
-  { 
-	"question": "Tony and Samuel love ______ so much that they are always seen together.", 
-	"options": ["one another", "themselves", "each other", "theirselves"], 
-	"answer": "each other" 
-  }, 
-  { 
-	"question": "I would like you to know that I can tidy up my work _______.", 
-	"options": ["yourself", "themselves", "myself", "herself"], 
-	"answer": "myself" 
-  }, 
-  { 
-	"question": "A _______ of angels are praising thy Lord.", 
-	"options": ["host", "group", "troupe", "team"], 
-	"answer": "host" 
-  }, 
-  { 
-	"question": "The man hid the puppy ______ the table to avoid suspicion.", 
-	"options": ["over", "beneath", "under", "above"], 
-	"answer": "under"  
-  }, 
-  { 
-	"question": "The man pleaded ______ his wife to allow him take his children to school.", 
-	"options": ["on", "upon", "by", "with"], 
-	"answer": "with" 
-  }, 
-  { 
-	"question": "My mom always drives me to school _____ her car.", 
-	"options": ["in", "with", "on", "by"], 
-	"answer": "by" 
-  }, 
-  { 
-	"question": "The girl seems to be _______ today than yesterday.", 
-	"options": ["more neat", "very neater", "neater", "neatest"], 
-	"answer": "neater" 
-  }, 
-  { 
-	"question": "The boy's pair of trousers _______ torn.", 
-	"options": ["is", "was", "has", "are"], 
-	"answer": "are" 
-  }, 
-  { 
-	"question": "An ______ of soldiers took over the city.", 
-	"options": ["army", "armoury", "array", "navy"], 
-	"answer": "army" 
-  }, 
-  { 
-	"question": "No one _______ John's real name now.", 
-	"options": ["knew", "knows", "know", "known"], 
-	"answer": "knows" 
-  }, 
-  { 
-	"question": "My pencil _______ stolen before I woke up.", 
-	"options": ["have been", "has been", "had been", "was being"], 
-	"answer": "has been" 
-  }, 
-  { 
-	"question": "Audu says that he _______ up at 6:00 every morning.", 
-	"options": ["wake", "woke", "wakes", "woken"], 
-	"answer": "wakes" 
-  }, 
-  { 
-	"question": "My mother _______ my sister yesterday.", 
-	"options": ["feeded", "feeds", "feed", "fed"], 
-	"answer": "fed" 
-  }, 
-  { 
-	"question": "Mr. Cooks took Margret, Alice and _____ round the factory.", 
-	"options": ["me", "we", "I", "he"], 
-	"answer": "me" 
-  }, 
-  { 
-	"question": "Tunji divided the money between David and ______.", 
-	"options": ["he", "him", "himself", "themselves"], 
-	"answer": "himself" 
-  }, 
-  { 
-	"question": "Tony is a good friend of ______.", 
-	"options": ["hers", "he's", "she", "we"], 
-	"answer": "hers" 
-  }, 
-  { 
-	"question": "The breakdown of our marriage was no fault of ______.", 
-	"options": ["me", "my", "mine", "I"], 
-	"answer": "mine" 
-  }, 
-  { 
-	"question": "He is almost as big as _______.", 
-	"options": ["I", "me", "he", "she"], 
-	"answer": "me" 
-  }, 
-  { 
-	"question": "If I ______ you, I would do the homework now.", 
-	"options": ["were", "was", "am", "be"], 
-	"answer": "were" 
-  }, 
-  { 
-	"question": "The head teacher came to our classroom but she didn't talk to _____.", 
-	"options": ["somebody", "anybody", "nobody", "no one"], 
-	"answer": "anybody" 
-  }, 
-  { 
-	"question": "I am afraid I _____ not be able to come with you because I am not sure if it would be possible.", 
-	"options": ["may", "can", "will", "shall"], 
-	"answer": "will" 
-  }, 
-  { 
-	"question": "The man _____ to the police station to file a complaint this morning.", 
-	"options": ["will went", "must gone", "has gone", "would went"], 
-	"answer": "has gone" 
-  }, 
-  { 
-	"question": "James and Sam ______ not able to make it to school for they woke quite late.", 
-	"options": ["was", "were", "is", "are"], 
-	"answer": "were" 
-  }, 
-  { 
-	"question": "She enjoys lots of ice-cream _____ her sister doesn’t.", 
-	"options": ["which", "what", "where", "while"], 
-	"answer": "while" 
-  }, 
-  { 
-	"question": "Mr. Williams caught the thief trying to drag his wobbly legs so as to escape. What is directly opposite in meaning to 'wobbly'?", 
-	"options": ["strong", "feeble", "weak", "battered"], 
-	"answer": "strong" 
-  }, 
-  { 
-	"question": "Please do not be too rigid with your decisions. What is opposite in meaning to 'rigid' here?", 
-	"options": ["flexible", "wicked", "mean", "serious"], 
-    "answer": "flexible" 
-  }, 
-  { 
-	"question": "My mom was so stunned to see me make honour roll at the end of the term. Which is opposite in meaning to 'stunned'?", 
-	"options": ["confused", "amazed", "joyous", "excited"], 
-	"answer": "amazed" 
-  }, 
-  { 
-	"question": "Miriam was so excited to see her baby brother at birth. What is opposite in meaning to 'excited'?", 
-	"options": ["elated", "glomming", "astonished", "confused"], 
-	"answer": "confused" 
-  }, 
-  { 
-	"question": "The man was told not to make a cruel policy that will affect everyone. What is opposite in meaning to 'cruel'?", 
-	"options": ["nice", "wicked", "mean", "ugly"], 
-	"answer": "nice" 
-  }, 
-  { 
-	"question": "The man appeared so feeble that I decided to help him. What is similar in meaning to 'feeble'?", 
-	"options": ["strong", "helpless", "weak", "powerful"], 
-	"answer": "weak" 
-  }, 
-  { 
-	"question": "I told Nancy to keep taciturn but she did not obey my instructions. What is similar in meaning to 'taciturn'?", 
-	"options": ["quiet", "radiating", "pushing through", "motivated"], 
-	"answer": "quiet" 
-  }, 
-  { 
-	"question": "The students always present trivial issues as though they are serious. What is similar in meaning to 'trivial'?", 
-	"options": ["light", "complicated", "difficult", "worrisome"], 
-	"answer": "light" 
-  }, 
-  { 
-	"question": "They have always loved to tackle complex topics before talking about others. What is similar in meaning to 'complex'?", 
-	"options": ["simple", "broad", "difficult", "easy"], 
-	"answer": "difficult" 
-  } 
-]
+[
+	{
+  
+      "number": 1,
+      "question": "Round off 27689 to the nearest ten",
+      "options": ["28000", "27700", "27690", "27680"],
+      "answer": "27690"
+    },
+    {
+      "number": 2,
+      "question": "Express 0.00402 in standard form",
+      "options": ["4.02×10^(-3)", "4.02×10^(-2)", "4.02×10^(-1)", "4.02×10^3"],
+      "answer": "4.02×10^(-3)"
+    },
+    {
+      "number": 3,
+      "question": "Subtract 1002 from 3001, leave your answer in 3 significant figures",
+      "options": ["1900", "1990", "1999", "2000"],
+      "answer": "2000"
+    },
+    {
+      "number": 4,
+      "question": "Express 240cm as a percentage of 600cm",
+      "options": ["16", "24", "30", "40"],
+      "answer": "40"
+    },
+    {
+      "number": 5,
+      "question": "The sum of three consecutive numbers is 60. What is the smallest number?",
+      "options": ["18", "19", "20", "21"],
+      "answer": "19"
+    },
+    {
+      "number": 6,
+      "question": "A telephone company charges 40kobo per second for the first minutes of a call and 20kobo per second for subsequent minutes. How much will a caller spend on a two minutes call?",
+      "options": ["N24.00", "N30.00", "N36.00", "N40.00"],
+      "answer": "N36.00"
+    },
+    {
+      "number": 7,
+      "question": "An estate agent gets a commission 5% for selling a house. How much does he get on a house worth 3Million Naira?",
+      "options": ["N120,000.00", "N150,000.00", "N300,000.00", "N600,000.00"],
+      "answer": "N150,000.00"
+    },
+    {
+      "number": 8,
+      "question": "Mr. Gambo’s salary per annum is N720,000.00. If he pays 2% monthly as income tax, how much does he take home at the end of the month?",
+      "options": ["N14,400.00", "N45,600.00", "N58,800.00", "N705,600.00"],
+      "answer": "N705,600.00"
+    },
+    {
+      "number": 9,
+      "question": "If 2,400 is increased by 15%, the result is",
+      "options": ["2,364", "2,415", "2,436", "2,760"],
+      "answer": "2,760"
+    },
+    {
+      "number": 10,
+      "question": "Find the simple interest on N20,000.00 for 3 years at 5% per annum.",
+      "options": ["N3,000.00", "N3,500.00", "N4,000.00", "N4,200.00"],
+      "answer": "N3,000.00"
+    },
+    {
+      "number": 11,
+      "question": "An article was bought at N2,500.00 and sold at N3,000.00. Calculate the percentage profit.",
+      "options": ["17", "20", "25", "30"],
+      "answer": "20"
+    },
+    {
+      "number": 12,
+      "question": "12 men can plough a farmland in 5 hours. How many hours will it take 15 men to do the same work if they are working at the same rate?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "number": 13,
+      "question": "Find the multiplicative inverse of -5",
+      "options": ["3/5", "2/5", "1/5", "-1/5"],
+      "answer": "-1/5"
+    },
+    {
+      "number": 14,
+      "question": "Zara treks 3x km to school, then 4x km to her uncle’s house and 2x km back home. Find the total distance covered.",
+      "options": ["24x km", "12x km", "9x km", "7x km"],
+      "answer": "9x km"
+    },
+    {
+      "number": 15,
+      "question": "Pascal’s monthly pocket money is N2,500.00. If he spends 4/5 of it monthly, how much does he save in 6 months?",
+      "options": ["N500.00", "N2,000.00", "N2,500.00", "N3,000.00"],
+      "answer": "N3,000.00"
+    },
+    {
+      "number": 16,
+      "question": "A bicycle that costs Nx was sold for Ny. Express the percentage loss in terms of x and y",
+      "options": ["(y-x)/x×100", "(x+y)/y×100", "(x-y)/x×100", "(x-y)/y×100"],
+      "answer": "(x-y)/x×100"
+    },
+    {
+      "number": 17,
+      "question": "Express 0.00019 in standard form",
+      "options": ["1.9×10^5", "1.9×10^(-5)", "1.9×10^(-4)", "1.9×10^4"],
+      "answer": "1.9×10^(-4)"
+    },
+    {
+      "number": 18,
+      "question": "Express 50000000 in terms of power of 10",
+      "options": ["5×10^6", "5×10^7", "5×10^8", "5×10^9"],
+      "answer": "5×10^7"
+    },
+    {
+      "number": 19,
+      "question": "Correct 6.912 to 3 significant figures",
+      "options": ["6.91", "6.912", "6.92", "6.93"],
+      "answer": "6.91"
+    },
+    {
+      "number": 20,
+      "question": "Simplify (12×10)^8 / (4×10^5) and leave your answer in ordinary form",
+      "options": ["3", "30", "300", "3000"],
+      "answer": "3000"
+    },
+    {
+      "number": 21,
+      "question": "Expand (-1/2)^3",
+      "options": ["1/8", "-1/8", "1/6", "-1/6"],
+      "answer": "-1/8"
+    },
+    {
+      "number": 22,
+      "question": "Simplify 4×8c^0",
+      "options": ["4", "16", "32", "32C"],
+      "answer": "32"
+    },
+    {
+      "number": 23,
+      "question": "Approximate 0.00256 to two significant figures",
+      "options": ["0.002", "0.0025", "0.0025", "0.003"],
+      "answer": "0.0025"
+    },
+    {
+      "number": 24,
+      "question": "If P=3 and q=-2, evaluate P^2+q",
+      "options": ["7", "9", "11", "13"],
+      "answer": "7"
+    },
+    {
+      "number": 25,
+      "question": "Simplify 6^y × 6^(2y+5)",
+      "options": ["6^3y", "6^8y", "36^(3y+5)", "6^(3y+5)"],
+      "answer": "6^(3y+5)"
+    },
+    {
+      "number": 26,
+      "question": "Express 301.6 in standard form",
+      "options": ["3.016×10^2", "3.016×10^1", "3.016×10^(-1)", "3.016×10^(-2)"],
+      "answer": "3.016×10^2"
+    },
+    {
+      "number": 27,
+      "question": "Simplify (1/49)^(-1/2)",
+      "options": ["-7", "7", "1/7", "49"],
+      "answer": "7"
+    },
+    {
+      "number": 28,
+      "question": "Evaluate (8.5×10^6) + (3.2×10^3)",
+      "options": ["8.5032×10^1", "8.5032×10^3", "8.5032×10^5", "8.5032×10^6"],
+      "answer": "8.5032×10^6"
+    },
+    {
+      "number": 29,
+      "question": "Express 0.00007 as a fraction",
+      "options": ["7/100000", "7/10000", "7/1000", "7/100"],
+      "answer": "7/100000"
+    },
+    {
+      "number": 30,
+      "question": "Approximate 8.5346 to the nearest thousandth",
+      "options": ["8.53", "8.54", "8.534", "8.535"],
+      "answer": "8.535"
+    },
+    {
+      "number": 31,
+      "question": "Simplify 7a^2 b^3 × 4ab",
+      "options": ["28a^3 b^4", "28a^4 b^3", "28ab^2", "28ab"],
+      "answer": "28a^3 b^4"
+    },
+    {
+      "number": 32,
+      "question": "A man spent 2/3 of his salary on his family and 1/4 on himself. If he saved the rest of his money, what fraction did he save?",
+      "options": ["3/4", "1/6", "1/2", "1/12"],
+      "answer": "1/12"
+    },
+    {
+      "number": 33,
+      "question": "Simplify (15r)^5 ÷ (5r)^2",
+      "options": ["3r", "3r^3", "3r^7", "5r^3"],
+      "answer": "3r^3"
+    },
+    {
+      "number": 34,
+      "question": "Evaluate -2 - (-5)",
+      "options": ["3", "-3", "7", "-7"],
+      "answer": "3"
+    },
+    {
+      "number": 35,
+      "question": "Calculate the simple interest on N650 for 2 years at 6% per annum",
+      "options": ["N39", "N65", "N78", "N780"],
+      "answer": "N78"
+    },
+    {
+      "number": 36,
+      "question": "Find the positive difference between 31 and product of 4 and 14",
+      "options": ["17", "25", "27", "56"],
+      "answer": "25"
+    },
+    {
+      "number": 37,
+      "question": "A book was bought for 250 and sold for N200. What is the gain percent?",
+      "options": ["5%", "15%", "25%", "50%"],
+      "answer": "25%"
+    },
+    {
+      "number": 38,
+      "question": "Find the profit of 15kg of fish bought at N150 per kg and sold at the cost of N500 per kg.",
+      "options": ["N2250", "N5250", "N5750", "N7500"],
+      "answer": "N5250"
+    },
+    {
+      "number": 39,
+      "question": "Calculate the commission received by a land agent on N360,000 at a commission of 5%",
+      "options": ["N6,000", "N12,000", "N15,000", "N18,000"],
+      "answer": "N18,000"
+    },
+    {
+      "number": 40,
+      "question": "Increase 63 in the ratio of 4:3",
+      "options": ["12", "21", "72", "84"],
+      "answer": "72"
+    },
+    {
+      "number": 41,
+      "question": "Find the value of y in the ratio y:24 = 3:4",
+      "options": ["12", "18", "24", "72"],
+      "answer": "18"
+    },
+    {
+      "number": 42,
+      "question": "What is the additive inverse of -5×-8",
+      "options": ["5", "8", "40", "-40"],
+      "answer": "-40"
+    },
+    {
+      "number": 43,
+      "question": "Simplify -30 ÷ (-1/6)",
+      "options": ["-5", "5", "180", "-180"],
+      "answer": "180"
+    },
+    {
+      "number": 44,
+      "question": "Increase 51cm in the ratio 5:3",
+      "options": ["31", "51", "85", "136"],
+      "answer": "85"
+    },
+    {
+      "number": 45,
+      "question": "40 apples are shared between Delight and Divine in the ratio 4:1. Find the number of apples that Delight has",
+      "options": ["4", "8", "32", "40"],
+      "answer": "32"
+    },
+    {
+      "number": 46,
+      "question": "It takes 18 hours for 10 men to do a piece of job. How long will it take 15 men to do the same piece of job?",
+      "options": ["12 hours", "15 hours", "18 hours", "20 hours"],
+      "answer": "12 hours"
+    },
+    {
+      "number": 47,
+      "question": "Find 75% of 1000g",
+      "options": ["250g", "500g", "750g", "900g"],
+      "answer": "750g"
+    },
+    {
+      "number": 48,
+      "question": "Increase 70m by 40%",
+      "options": ["28m", "42m", "70m", "98m"],
+      "answer": "98m"
+    },
+    {
+      "number": 49,
+      "question": "Simplify: 32y^9 ÷ 8y^5",
+      "options": ["4y^4", "4y^3", "2y", "y"],
+      "answer": "4y^4"
+    },
+    {
+      "number": 50,
+      "question": "Evaluate -5 + (-3)",
+      "options": ["8", "-8", "2", "-2"],
+      "answer": "-8"
+    }
+  ]
+
