@@ -106,7 +106,7 @@
         },
         {
           "number": 18,
-          "question": "Evaluate -6 + (-40)",
+          "question": "Evaluate -6 + (-4)",
           "options": ["-10", "10", "2", "-6"],
           "answer": "-10"
         },
@@ -215,7 +215,7 @@
         {
           "number": 36,
           "question": "Find the square root of 8100",
-          "options": ["9", "90", "9000"],
+          "options": ["9", "90", "900", "9000"],
           "answer": "90"
         },
         {
