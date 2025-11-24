@@ -5,19 +5,24 @@ const Question = ({ questionObj, questionIndex, selectedOption, handleOptionSele
 
 
 {/* This portion is only for questions that have instructions attached to it  */}
+
           {/* {questionObj.instruction && (
   <p className="text-sm font-medium text-gray-600 mb-2 italic">
     {questionObj.instruction}
   </p>
 )} */}
+
 {/* It instructional questions ends here */}
 
+
 {/* This portion underlines the words */}
+
 {/* <span
   dangerouslySetInnerHTML={{
     __html: `${questionIndex + 1}. ${questionObj.question}`,
   }}
 /> */}
+
 {/* The underlining stops here */}
 
           {questionIndex + 1}. {questionObj.question}
