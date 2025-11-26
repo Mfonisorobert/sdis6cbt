@@ -252,7 +252,7 @@ if (!hasStarted) {
         <>
         <p className="text-1xl text-green-800 -mb-2  text-center"><span className="font-medium">{studentName}</span></p>
           
-          <Timer duration={2100} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
+          <Timer duration={1800} onTimeUp={handleTimeUp} /> {/* 5 minutes timer */}
           {questions.length > 0 && (
             <Question
               questionObj={questions[currentQIndex]}

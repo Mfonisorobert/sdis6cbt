@@ -359,7 +359,7 @@
         "3",
         "4",
         "5",
-        "3"
+        "2"
       ],
       "answer": "3"
     },
@@ -497,7 +497,7 @@
     },
     {
       "number": 46,
-      "question": "The speaker above is referring to",
+      "question": "\"Kettle calling pot black\" - The speaker is referring to",
       "options": [
         "Williams",
         "Amanda",
@@ -530,7 +530,7 @@
     },
     {
       "number": 49,
-      "question": "The speaker is referring to who?",
+      "question": "\"Everything in this country is on the fiddle\" - The speaker is referring to who?",
       "options": [
         "Sidney",
         "Nurse Eliza",
@@ -541,7 +541,7 @@
     },
     {
       "number": 50,
-      "question": "Where did the speaker make the statement?",
+      "question": "\"Everything in this country is on the fiddle\" - Where did the speaker make the statement?",
       "options": [
         "House",
         "Hospital",
