@@ -1,312 +1,554 @@
 [
-  
-  
-      
-        {
-          "number": 1,
-          "question": "What is the place value of 3 in 162.345?",
-          "options": ["3 unit", "3 tenth", "3 hundred", "3 hundredth"],
-          "answer": "3 tenth"
-        },
-        {
-          "number": 2,
-          "question": "Express 108 as a product of its prime factors in index form",
-          "options": ["2^2×3^2", "2^2×2^4", "2^2×3^3", "2^3×3^2"],
-          "answer": "2^2×3^3"
-        },
-        {
-          "number": 3,
-          "question": "Find the square root of 6^(1/4)",
-          "options": ["1/5", "2/5", "1/2", "2 1/2"],
-          "answer": "2 1/2"
-        },
-        {
-          "number": 4,
-          "question": "Which of the following is a perfect square?",
-          "options": ["18", "22", "25", "27"],
-          "answer": "25"
-        },
-        {
-          "number": 5,
-          "question": "Simplify [2 + 3 - 2×5 + 4(3×2)]",
-          "options": ["19", "22", "31", "39"],
-          "answer": "19"
-        },
-        {
-          "number": 6,
-          "question": "Express 2.160 as a fraction in its lowest term",
-          "options": ["2 1/25", "2 2/25", "2 3/25", "2 4/25"],
-          "answer": "2 4/25"
-        },
-        {
-          "number": 7,
-          "question": "Find the LCM of 36, 24 and 81",
-          "options": ["141", "216", "324", "648"],
-          "answer": "648"
-        },
-        {
-          "number": 8,
-          "question": "Which of the following is a prime factor of 100?",
-          "options": ["5", "10", "20", "25"],
-          "answer": "5"
-        },
-        {
-          "number": 9,
-          "question": "Simplify 16/22(5/8+3/4)",
-          "options": ["1", "2", "3", "4"],
-          "answer": "1"
-        },
-        {
-          "number": 10,
-          "question": "If today is 2nd January, what will be the date in P days’ time? (Still January)",
-          "options": ["P + 31", "15 + P", "2 + P", "1 + P"],
-          "answer": "2 + P"
-        },
-        {
-          "number": 11,
-          "question": "Find the difference between 2x kg and 55x g. Give your answer in grams",
-          "options": ["53x", "57x", "255x", "1945x"],
-          "answer": "1945x"
-        },
-        {
-          "number": 12,
-          "question": "Write in figures: Seven hundred and eighty-one thousand four hundred and fifty-two naira, sixty-three kobo",
-          "options": ["N781,254.63", "N781,452.36", "N781,452.63", "N781,542.63"],
-          "answer": "N781,452.63"
-        },
-        {
-          "number": 13,
-          "question": "Reduce 280/360 to the lowest term",
-          "options": ["7/9", "7/18", "14/18", "28/36"],
-          "answer": "7/9"
-        },
-        {
-          "number": 14,
-          "question": "Evaluate 1570 + 423, leaving your answer in Roman Numerals",
-          "options": ["MCMXCIII", "MCMIII", "XCIII", "MCMCXIII"],
-          "answer": "MCMXCIII"
-        },
-        {
-          "number": 15,
-          "question": "Which of these numbers is a multiple of 2?",
-          "options": ["13", "15", "21", "40"],
-          "answer": "40"
-        },
-        {
-          "number": 16,
-          "question": "Evaluate 1505/35",
-          "options": ["32", "43", "47", "49"],
-          "answer": "43"
-        },
-        {
-          "number": 17,
-          "question": "A man is x years old. How old was he 10 years ago?",
-          "options": ["20 years", "(x+10) years", "(x-10) years", "(10-x) years"],
-          "answer": "(x-10) years"
-        },
-        {
-          "number": 18,
-          "question": "Evaluate -6 + (-4)",
-          "options": ["-10", "10", "2", "-6"],
-          "answer": "-10"
-        },
-        {
-          "number": 19,
-          "question": "What is the positive difference between 362 and 295?",
-          "options": ["42", "62", "67", "657"],
-          "answer": "67"
-        },
-        {
-          "number": 20,
-          "question": "Simplify (√25)^3",
-          "options": ["5", "25", "75", "125"],
-          "answer": "125"
-        },
-        {
-          "number": 21,
-          "question": "Simplify -3 - (-21) - 18",
-          "options": ["0", "6", "36", "-42"],
-          "answer": "0"
-        },
-        {
-          "number": 22,
-          "question": "Subtract one hundred and four from five hundred and thirty-nine",
-          "options": ["104", "335", "425", "435"],
-          "answer": "435"
-        },
-        {
-          "number": 23,
-          "question": "Find the HCF of 15, 20 and 35",
-          "options": ["2", "3", "4", "5"],
-          "answer": "5"
-        },
-        {
-          "number": 24,
-          "question": "One of these numbers is a factor of 12",
-          "options": ["5", "6", "9", "24"],
-          "answer": "6"
-        },
-        {
-          "number": 25,
-          "question": "Find the value of VLII in numbers",
-          "options": ["52", "57", "552", "5052"],
-          "answer": "57"
-        },
-        {
-          "number": 26,
-          "question": "Which of the following is a composite number?",
-          "options": ["5", "7", "9", "11"],
-          "answer": "9"
-        },
-        {
-          "number": 27,
-          "question": "Which of these is not a multiple of 15?",
-          "options": ["45", "75", "90", "110"],
-          "answer": "110"
-        },
-        {
-          "number": 28,
-          "question": "Express 25/3 as a mixed number",
-          "options": ["1 3/8", "3 1/8", "8 1/3", "8 3/8"],
-          "answer": "8 1/3"
-        },
-        {
-          "number": 29,
-          "question": "Find the HCF of 15ab^2 and 6a^2b",
-          "options": ["ab", "2ab", "3ab", "3ab^2"],
-          "answer": "3ab"
-        },
-        {
-          "number": 30,
-          "question": "Evaluate –(25)^2",
-          "options": ["5", "-5", "625", "-625"],
-          "answer": "-625"
-        },
-        {
-          "number": 31,
-          "question": "Simplify (40-17)×(50÷5)",
-          "options": ["23", "115", "203", "230"],
-          "answer": "230"
-        },
-        {
-          "number": 32,
-          "question": "Find the square root of 2 7/9",
-          "options": ["1 2/3", "2 1/2", "3/5", "7/9"],
-          "answer": "1 2/3"
-        },
-        {
-          "number": 33,
-          "question": "Which of the following numbers is not divisible by both 3 and 5?",
-          "options": ["40", "60", "75", "210"],
-          "answer": "40"
-        },
-        {
-          "number": 34,
-          "question": "Evaluate 1/36 of 3024",
-          "options": ["24", "436", "84", "94"],
-          "answer": "84"
-        },
-        {
-          "number": 35,
-          "question": "Simplify (-15)+4÷(5-3)",
-          "options": ["13", "-13", "17", "-17"],
-          "answer": "-13"
-        },
-        {
-          "number": 36,
-          "question": "Find the square root of 8100",
-          "options": ["9", "90", "900", "9000"],
-          "answer": "90"
-        },
-        {
-          "number": 37,
-          "question": "Arrange the fractions in ascending order: 3/8, 2/7, 5/11, 4/5",
-          "options": [
-            "2/7, 3/8, 4/5, 5/11",
-            "3/8, 2/7, 5/11, 4/5",
-            "4/5, 2/7, 3/8, 5/11",
-            "2/7, 3/8, 5/11, 4/5"
-          ],
-          "answer": "2/7, 3/8, 5/11, 4/5"
-        },
-        {
-          "number": 38,
-          "question": "Convert 9 2/7 to improper fraction",
-          "options": ["7/65", "63/7", "65/7", "18/7"],
-          "answer": "65/7"
-        },
-        {
-          "number": 39,
-          "question": "Express 45 minutes as a fraction of an hour",
-          "options": ["1/4", "3/4", "9/20", "11/20"],
-          "answer": "3/4"
-        },
-        {
-          "number": 40,
-          "question": "Express 0.68 as a fraction",
-          "options": ["1/2", "17/25", "25/34", "27/50"],
-          "answer": "17/25"
-        },
-        {
-          "number": 41,
-          "question": "The product of 0.017 and 100 is",
-          "options": ["0.0017", "0.017", "0.7", "1.7"],
-          "answer": "1.7"
-        },
-        {
-          "number": 42,
-          "question": "Subtract 18 from the product of -6 and 3",
-          "options": ["36", "-36", "-18", "0"],
-          "answer": "-36"
-        },
-        {
-          "number": 43,
-          "question": "Express 20% as a decimal number",
-          "options": ["2.00", "0.70", "0.50", "0.20"],
-          "answer": "0.20"
-        },
-        {
-          "number": 44,
-          "question": "Write 672 in Roman figures",
-          "options": ["DCCXXII", "DCLXXII", "DCLXXXII", "DCLXXXIV"],
-          "answer": "DCLXXII"
-        },
-        {
-          "number": 45,
-          "question": "Simplify 1200 ÷ 0.12",
-          "options": ["10000", "1000", "100", "10"],
-          "answer": "10000"
-        },
-        {
-          "number": 46,
-          "question": "Find the difference between 3 4/5 and 3/4",
-          "options": ["3 2/3", "3 1/10", "3 1/5", "3 1/20"],
-          "answer": "3 1/20"
-        },
-        {
-          "number": 47,
-          "question": "Express MMXL in figures",
-          "options": ["1034", "1940", "2040", "2134"],
-          "answer": "2040"
-        },
-        {
-          "number": 48,
-          "question": "Reduce 36/72 to its lowest term",
-          "options": ["1/2", "1/3", "1/5", "1/6"],
-          "answer": "1/2"
-        },
-        {
-          "number": 49,
-          "question": "Which of the following is NOT a pair of equivalent fractions?",
-          "options": ["3/5,12/20", "2/3,9/20", "3/5,18/30", "1/2,12/24"],
-          "answer": "2/3,9/20"
-        },
-        {
-          "number": 50,
-          "question": "The place value of 7 in 592.367 is",
-          "options": ["7 tenths", "7 hundredth", "7 thousandths", "7 tens"],
-          "answer": "7 thousandths"
-        }
-      ]
-    
+    {
+      "number": 1,
+      "question": "Which of the following is common to all forms of literature?",
+      "options": [
+        "language",
+        "chorus",
+        "action",
+        "narration"
+      ],
+      "answer": "language"
+    },
+    {
+      "number": 2,
+      "question": "The three major forms of literature are",
+      "options": [
+        "tragedy, comedy, farce",
+        "poetry, drama, folktales",
+        "drama, lyric, prose-fiction",
+        "poetry, drama, prose"
+      ],
+      "answer": "poetry, drama, prose"
+    },
+    {
+      "number": 3,
+      "question": "A story in which animals or things are used as characters is known as _____",
+      "options": [
+        "allegory",
+        "farce",
+        "fable",
+        "gothic"
+      ],
+      "answer": "fable"
+    },
+    {
+      "number": 4,
+      "question": "Literature is divided into ________ genres",
+      "options": [
+        "5",
+        "10",
+        "3",
+        "4"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": 5,
+      "question": "Which of the following is not an element of prose",
+      "options": [
+        "setting",
+        "characters",
+        "plot",
+        "genre"
+      ],
+      "answer": "genre"
+    },
+    {
+      "number": 6,
+      "question": "The beginning, middle and end of the story describe the ___________",
+      "options": [
+        "setting",
+        "plot",
+        "climax",
+        "theme"
+      ],
+      "answer": "plot"
+    },
+    {
+      "number": 7,
+      "question": "There are __________ types of character in literature",
+      "options": [
+        "3",
+        "4",
+        "8",
+        "2"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 8,
+      "question": "The term 'Literature' is gotten from a ________ word",
+      "options": [
+        "Greek",
+        "Latin",
+        "French",
+        "English"
+      ],
+      "answer": "Latin"
+    },
+    {
+      "number": 9,
+      "question": "Literature is 'the mirror of life' means",
+      "options": [
+        "we use it to see other's make up",
+        "it shines like mirror",
+        "it is the reflection of the unknown acts in our society",
+        "it exposes the student into knowing the Bible"
+      ],
+      "answer": "it is the reflection of the unknown acts in our society"
+    },
+    {
+      "number": 10,
+      "question": "One of the following is not among the importance of literature",
+      "options": [
+        "it is an eye opener",
+        "it enables communication skills",
+        "it enhances concentration",
+        "it improves reading skills"
+      ],
+      "answer": "it enhances concentration"
+    },
+    {
+      "number": 11,
+      "question": "The genre of literature that is written in a straight forward language, rather than in dialogue is known as",
+      "options": [
+        "drama",
+        "prose",
+        "comedy",
+        "poetry"
+      ],
+      "answer": "prose"
+    },
+    {
+      "number": 12,
+      "question": "One of the following is not among the features of prose",
+      "options": [
+        "it is written in chapters",
+        "it is written in a serial language",
+        "it has a theme",
+        "it has a list of characters"
+      ],
+      "answer": "it has a list of characters"
+    },
+    {
+      "number": 13,
+      "question": "A character that plays a little role in a story is referred to as",
+      "options": [
+        "round character",
+        "minor character",
+        "major character",
+        "dynamic character"
+      ],
+      "answer": "minor character"
+    },
+    {
+      "number": 14,
+      "question": "A person who writes a prose work is known as",
+      "options": [
+        "poet",
+        "prosaist",
+        "dramatics",
+        "novella"
+      ],
+      "answer": "prosaist"
+    },
+    {
+      "number": 15,
+      "question": "The term 'Prose' is gotten from _________ word",
+      "options": [
+        "French",
+        "Latins",
+        "Greek",
+        "none of the above"
+      ],
+      "answer": "Latins"
+    },
+    {
+      "number": 16,
+      "question": "Pick the odd item out",
+      "options": [
+        "novel",
+        "memoir",
+        "fable",
+        "gothic"
+      ],
+      "answer": "memoir"
+    },
+    {
+      "number": 17,
+      "question": "The underlying central message in a work of art is called",
+      "options": [
+        "setting",
+        "didactic",
+        "mood",
+        "theme"
+      ],
+      "answer": "theme"
+    },
+    {
+      "number": 18,
+      "question": "A piece of information supplied at the beginning of literary work is _______",
+      "options": [
+        "epilogue",
+        "PostScript",
+        "prologue",
+        "monologue"
+      ],
+      "answer": "prologue"
+    },
+    {
+      "number": 19,
+      "question": "The outline of events in a novel and drama is _______",
+      "options": [
+        "plot",
+        "style",
+        "setting",
+        "theme"
+      ],
+      "answer": "plot"
+    },
+    {
+      "number": 20,
+      "question": "\"Ada is as dirty as a pig\" is an example of",
+      "options": [
+        "oxymoron",
+        "metaphor",
+        "simile",
+        "sarcasm"
+      ],
+      "answer": "simile"
+    },
+
+    {
+      "number": 21,
+      "question": "Which of the following mirrors the society in which it was written",
+      "options": [
+        "drama",
+        "poetry",
+        "literature",
+        "prose"
+      ],
+      "answer": "literature"
+    },
+    {
+      "number": 22,
+      "question": "Pick out the odd item here",
+      "options": [
+        "prose",
+        "stage",
+        "drama",
+        "poetry"
+      ],
+      "answer": "stage"
+    },
+    {
+      "number": 23,
+      "question": "Through literature we can achieve the following except",
+      "options": [
+        "you gain a lot of experiences",
+        "you learn about your people's culture",
+        "you can predict your future",
+        "A and B"
+      ],
+      "answer": "you can predict your future"
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is not a feature of prose",
+      "options": [
+        "myth",
+        "characterization",
+        "plot",
+        "setting"
+      ],
+      "answer": "myth"
+    },
+    {
+      "number": 25,
+      "question": "Prose is classified into ________ kinds",
+      "options": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 26,
+      "question": "The term a writer uses to describe his character to the readers is _________",
+      "options": [
+        "theme",
+        "character",
+        "plot",
+        "characterization"
+      ],
+      "answer": "characterization"
+    },
+    {
+      "number": 27,
+      "question": "A story centre’s on the ___________",
+      "options": [
+        "flat character",
+        "dynamic character",
+        "round character",
+        "major character"
+      ],
+      "answer": "major character"
+    },
+    {
+      "number": 28,
+      "question": "An account of ones life written by another is called",
+      "options": [
+        "biography",
+        "memoir",
+        "autobiography",
+        "novella"
+      ],
+      "answer": "biography"
+    },
+    {
+      "number": 29,
+      "question": "The main character in a story is referred as",
+      "options": [
+        "protagonist",
+        "antagonist",
+        "actor",
+        "villain"
+      ],
+      "answer": "protagonist"
+    },
+    {
+      "number": 30,
+      "question": "A person who opposes the main character of a story is called",
+      "options": [
+        "boss",
+        "opposition",
+        "antagonist",
+        "protagonist"
+      ],
+      "answer": "antagonist"
+    },
+    {
+      "number": 31,
+      "question": "The method of recording, preserving, and transmitting knowledge and entertainment is known as",
+      "options": [
+        "Prose",
+        "drama",
+        "literature",
+        "poetry"
+      ],
+      "answer": "literature"
+    },
+    {
+      "number": 32,
+      "question": "Fictional work includes the following except",
+      "options": [
+        "memoir",
+        "novel",
+        "short story",
+        "parable"
+      ],
+      "answer": "memoir"
+    },
+    {
+      "number": 33,
+      "question": "Prose is classified into __________",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "3"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": 34,
+      "question": "The characters in allegory represent human virtues like",
+      "options": [
+        "envy",
+        "contentment",
+        "cruelty",
+        "pride"
+      ],
+      "answer": "contentment"
+    },
+    {
+      "number": 35,
+      "question": "A fictional story that engenders fear in the reader is called",
+      "options": [
+        "fiction",
+        "gothic",
+        "fable",
+        "allegory"
+      ],
+      "answer": "gothic"
+    },
+    {
+      "number": 36,
+      "question": "The geographical location of any literary work is known as",
+      "options": [
+        "setting",
+        "plot",
+        "theme",
+        "none"
+      ],
+      "answer": "setting"
+    },
+    {
+      "number": 37,
+      "question": "The choice of words selected by the author to build his work is called",
+      "options": [
+        "setting",
+        "style",
+        "diction",
+        "tone"
+      ],
+      "answer": "diction"
+    },
+    {
+      "number": 38,
+      "question": "The aforementioned literary work is written by",
+      "options": [
+        "Aristotles",
+        "Basilia Izuegbu",
+        "Nicole Bertram",
+        "Shobago O. Samson"
+      ],
+      "answer": "Nicole Bertram"
+    },
+    {
+      "number": 39,
+      "question": "'Addiction' is an example of ________",
+      "options": [
+        "Drama",
+        "poetry",
+        "farce",
+        "prose"
+      ],
+      "answer": "Drama"
+    },
+    {
+      "number": 40,
+      "question": "The protagonist of the above literary work is ________",
+      "options": [
+        "Mr. Israel",
+        "Sidney",
+        "Taiwo and Kehinde",
+        "Mrs. Esther"
+      ],
+      "answer": "Sidney"
+    },
+    {
+      "number": 41,
+      "question": "Mr. Israel is a _______",
+      "options": [
+        "civil servant",
+        "trader",
+        "businessman",
+        "carpenter"
+      ],
+      "answer": "civil servant"
+    },
+    {
+      "number": 42,
+      "question": "The drama is published in",
+      "options": [
+        "2014",
+        "2021",
+        "2022",
+        "2024"
+      ],
+      "answer": "2021"
+    },
+    {
+      "number": 43,
+      "question": "The drama was set in",
+      "options": [
+        "Kaduna",
+        "Imo State",
+        "Abuja",
+        "Lagos"
+      ],
+      "answer": "Kaduna"
+    },
+    {
+      "number": 44,
+      "question": "Pick out the odd one",
+      "options": [
+        "Williams",
+        "Taiwo",
+        "Lucia",
+        "Sydney"
+      ],
+      "answer": "Taiwo"
+    },
+    {
+      "number": 45,
+      "question": "\"Kettle calling pot black\" — Who made the above statement?",
+      "options": [
+        "Mr. Israel",
+        "Sidney",
+        "Mrs Esther",
+        "Doris"
+      ],
+      "answer": "Mrs Esther"
+    },
+    {
+      "number": 46,
+      "question": "The speaker above is referring to",
+      "options": [
+        "Williams",
+        "Amanda",
+        "Mr. Israel",
+        "Mrs. Esther"
+      ],
+      "answer": "Mr. Israel"
+    },
+    {
+      "number": 47,
+      "question": "Who made the title of the book 'Addiction' come to limelight?",
+      "options": [
+        "Sidney",
+        "Andrew",
+        "Kehinde",
+        "Taiwo"
+      ],
+      "answer": "Andrew"
+    },
+    {
+      "number": 48,
+      "question": "\"Everything in this country is on the fiddle\" — The speaker above is",
+      "options": [
+        "Richard",
+        "Sidney",
+        "Lucia",
+        "Williams"
+      ],
+      "answer": "Lucia"
+    },
+    {
+      "number": 49,
+      "question": "The speaker is referring to who?",
+      "options": [
+        "Sidney",
+        "Nurse Eliza",
+        "Lucia",
+        "Williams"
+      ],
+      "answer": "Nurse Eliza"
+    },
+    {
+      "number": 50,
+      "question": "Where did the speaker make the statement?",
+      "options": [
+        "House",
+        "Hospital",
+        "School",
+        "Market"
+      ],
+      "answer": "Hospital"
+    }
+  ]
 
