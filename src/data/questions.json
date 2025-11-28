@@ -1,554 +1,663 @@
 [
     {
       "number": 1,
-      "question": "Which of the following is common to all forms of literature?",
+      "question": "The sequence of events in a story is called the",
       "options": [
-        "language",
-        "chorus",
-        "action",
-        "narration"
+        "theme",
+        "plot",
+        "mood",
+        "style"
       ],
-      "answer": "language"
+      "answer": "plot"
     },
     {
       "number": 2,
-      "question": "The three major forms of literature are",
+      "question": "The person who tells a story is the",
       "options": [
-        "tragedy, comedy, farce",
-        "poetry, drama, folktales",
-        "drama, lyric, prose-fiction",
-        "poetry, drama, prose"
+        "writer",
+        "actor",
+        "narrator",
+        "persona"
       ],
-      "answer": "poetry, drama, prose"
+      "answer": "narrator"
     },
     {
       "number": 3,
-      "question": "A story in which animals or things are used as characters is known as _____",
+      "question": "The main character in a novel or play is known as the",
       "options": [
-        "allegory",
-        "farce",
-        "fable",
-        "gothic"
-      ],
-      "answer": "fable"
-    },
-    {
-      "number": 4,
-      "question": "Literature is divided into ________ genres",
-      "options": [
-        "5",
-        "10",
-        "3",
-        "4"
-      ],
-      "answer": "3"
-    },
-    {
-      "number": 5,
-      "question": "Which of the following is not an element of prose",
-      "options": [
-        "setting",
-        "characters",
-        "plot",
-        "genre"
-      ],
-      "answer": "genre"
-    },
-    {
-      "number": 6,
-      "question": "The beginning, middle and end of the story describe the ___________",
-      "options": [
-        "setting",
-        "plot",
-        "climax",
-        "theme"
-      ],
-      "answer": "plot"
-    },
-    {
-      "number": 7,
-      "question": "There are __________ types of character in literature",
-      "options": [
-        "3",
-        "4",
-        "8",
-        "2"
-      ],
-      "answer": "2"
-    },
-    {
-      "number": 8,
-      "question": "The term 'Literature' is gotten from a ________ word",
-      "options": [
-        "Greek",
-        "Latin",
-        "French",
-        "English"
-      ],
-      "answer": "Latin"
-    },
-    {
-      "number": 9,
-      "question": "Literature is 'the mirror of life' means",
-      "options": [
-        "we use it to see other's make up",
-        "it shines like mirror",
-        "it is the reflection of the unknown acts in our society",
-        "it exposes the student into knowing the Bible"
-      ],
-      "answer": "it is the reflection of the unknown acts in our society"
-    },
-    {
-      "number": 10,
-      "question": "One of the following is not among the importance of literature",
-      "options": [
-        "it is an eye opener",
-        "it enables communication skills",
-        "it enhances concentration",
-        "it improves reading skills"
-      ],
-      "answer": "it enhances concentration"
-    },
-    {
-      "number": 11,
-      "question": "The genre of literature that is written in a straight forward language, rather than in dialogue is known as",
-      "options": [
-        "drama",
-        "prose",
-        "comedy",
-        "poetry"
-      ],
-      "answer": "prose"
-    },
-    {
-      "number": 12,
-      "question": "One of the following is not among the features of prose",
-      "options": [
-        "it is written in chapters",
-        "it is written in a serial language",
-        "it has a theme",
-        "it has a list of characters"
-      ],
-      "answer": "it has a list of characters"
-    },
-    {
-      "number": 13,
-      "question": "A character that plays a little role in a story is referred to as",
-      "options": [
-        "round character",
-        "minor character",
-        "major character",
-        "dynamic character"
-      ],
-      "answer": "minor character"
-    },
-    {
-      "number": 14,
-      "question": "A person who writes a prose work is known as",
-      "options": [
-        "poet",
-        "prosaist",
-        "dramatics",
-        "novella"
-      ],
-      "answer": "prosaist"
-    },
-    {
-      "number": 15,
-      "question": "The term 'Prose' is gotten from _________ word",
-      "options": [
-        "French",
-        "Latins",
-        "Greek",
-        "none of the above"
-      ],
-      "answer": "Latins"
-    },
-    {
-      "number": 16,
-      "question": "Pick the odd item out",
-      "options": [
-        "novel",
-        "memoir",
-        "fable",
-        "gothic"
-      ],
-      "answer": "memoir"
-    },
-    {
-      "number": 17,
-      "question": "The underlying central message in a work of art is called",
-      "options": [
-        "setting",
-        "didactic",
-        "mood",
-        "theme"
-      ],
-      "answer": "theme"
-    },
-    {
-      "number": 18,
-      "question": "A piece of information supplied at the beginning of literary work is _______",
-      "options": [
-        "epilogue",
-        "PostScript",
-        "prologue",
-        "monologue"
-      ],
-      "answer": "prologue"
-    },
-    {
-      "number": 19,
-      "question": "The outline of events in a novel and drama is _______",
-      "options": [
-        "plot",
-        "style",
-        "setting",
-        "theme"
-      ],
-      "answer": "plot"
-    },
-    {
-      "number": 20,
-      "question": "\"Ada is as dirty as a pig\" is an example of",
-      "options": [
-        "oxymoron",
-        "metaphor",
-        "simile",
-        "sarcasm"
-      ],
-      "answer": "simile"
-    },
-
-    {
-      "number": 21,
-      "question": "Which of the following mirrors the society in which it was written",
-      "options": [
-        "drama",
-        "poetry",
-        "literature",
-        "prose"
-      ],
-      "answer": "literature"
-    },
-    {
-      "number": 22,
-      "question": "Pick out the odd item here",
-      "options": [
-        "prose",
-        "stage",
-        "drama",
-        "poetry"
-      ],
-      "answer": "stage"
-    },
-    {
-      "number": 23,
-      "question": "Through literature we can achieve the following except",
-      "options": [
-        "you gain a lot of experiences",
-        "you learn about your people's culture",
-        "you can predict your future",
-        "A and B"
-      ],
-      "answer": "you can predict your future"
-    },
-    {
-      "number": 24,
-      "question": "Which of the following is not a feature of prose",
-      "options": [
-        "myth",
-        "characterization",
-        "plot",
-        "setting"
-      ],
-      "answer": "myth"
-    },
-    {
-      "number": 25,
-      "question": "Prose is classified into ________ kinds",
-      "options": [
-        "5",
-        "2",
-        "3",
-        "4"
-      ],
-      "answer": "2"
-    },
-    {
-      "number": 26,
-      "question": "The term a writer uses to describe his character to the readers is _________",
-      "options": [
-        "theme",
-        "character",
-        "plot",
-        "characterization"
-      ],
-      "answer": "characterization"
-    },
-    {
-      "number": 27,
-      "question": "A story centre’s on the ___________",
-      "options": [
-        "flat character",
-        "dynamic character",
-        "round character",
-        "major character"
-      ],
-      "answer": "major character"
-    },
-    {
-      "number": 28,
-      "question": "An account of ones life written by another is called",
-      "options": [
-        "biography",
-        "memoir",
-        "autobiography",
-        "novella"
-      ],
-      "answer": "biography"
-    },
-    {
-      "number": 29,
-      "question": "The main character in a story is referred as",
-      "options": [
-        "protagonist",
         "antagonist",
-        "actor",
-        "villain"
+        "foil",
+        "protagonist",
+        "hero"
       ],
       "answer": "protagonist"
     },
     {
-      "number": 30,
-      "question": "A person who opposes the main character of a story is called",
+      "number": 4,
+      "question": "A story that ends happily after trials is generally called a",
       "options": [
-        "boss",
-        "opposition",
-        "antagonist",
+        "satire",
+        "comedy",
+        "tragedy",
+        "melodrama"
+      ],
+      "answer": "comedy"
+    },
+    {
+      "number": 5,
+      "question": "Language that appeals to the senses is called",
+      "options": [
+        "irony",
+        "imagery",
+        "diction",
+        "allusion"
+      ],
+      "answer": "imagery"
+    },
+    {
+      "number": 6,
+      "question": "The repetition of consonant sounds at the beginning of words is called",
+      "options": [
+        "rhyme",
+        "rhythm",
+        "alliteration",
+        "pun"
+      ],
+      "answer": "alliteration"
+    },
+    {
+      "number": 7,
+      "question": "A direct comparison using \"like\" or \"as\" is a",
+      "options": [
+        "metaphor",
+        "simile",
+        "paradox",
+        "hyperbole"
+      ],
+      "answer": "simile"
+    },
+    {
+      "number": 8,
+      "question": "The conversation between characters in a play is known as",
+      "options": [
+        "dialogue",
+        "soliloquy",
+        "aside",
+        "monologue"
+      ],
+      "answer": "dialogue"
+    },
+    {
+      "number": 9,
+      "question": "When a line of poetry continues into the next without pause, it is called",
+      "options": [
+        "inversion",
+        "enjambment",
+        "metonymy",
+        "ellipsis"
+      ],
+      "answer": "enjambment"
+    },
+    {
+      "number": 10,
+      "question": "A long narrative poem about heroic deeds is a/an",
+      "options": [
+        "ode",
+        "epic",
+        "elegy",
+        "dirge"
+      ],
+      "answer": "epic"
+    },
+    {
+      "number": 11,
+      "question": "The mood of the passage is",
+      "options": [
+        "fearful",
+        "anxious",
+        "relieved",
+        "gloomy"
+      ],
+      "answer": "relieved"
+    },
+    {
+      "number": 12,
+      "question": "The dominant literary device is",
+      "options": [
+        "personification",
+        "simile",
+        "metaphor",
+        "hyperbole"
+      ],
+      "answer": "simile"
+    },
+    {
+      "number": 13,
+      "question": "The rain symbolizes",
+      "options": [
+        "destruction",
+        "renewal",
+        "harvest",
+        "danger"
+      ],
+      "answer": "renewal"
+    },
+    {
+      "number": 14,
+      "question": "The setting of the passage is likely",
+      "options": [
+        "a farmstead",
+        "a market",
+        "a school",
+        "a courtroom"
+      ],
+      "answer": "a farmstead"
+    },
+    {
+      "number": 15,
+      "question": "The tone of the writer is",
+      "options": [
+        "joyful",
+        "sorrowful",
+        "sarcastic",
+        "humorous"
+      ],
+      "answer": "joyful"
+    },
+    {
+      "number": 16,
+      "question": "The poem’s theme centers on",
+      "options": [
+        "patience in suffering",
+        "joy in victory",
+        "freedom from fear",
+        "love in absence"
+      ],
+      "answer": "patience in suffering"
+    },
+    {
+      "number": 17,
+      "question": "The expression “how my light is spent” is an example of",
+      "options": [
+        "irony",
+        "symbol",
+        "personification",
+        "apostrophe"
+      ],
+      "answer": "symbol"
+    },
+    {
+      "number": 18,
+      "question": "The rhyme scheme of the stanza is",
+      "options": [
+        "abba",
+        "abab",
+        "aabb",
+        "abcb"
+      ],
+      "answer": "abab"
+    },
+    {
+      "number": 19,
+      "question": "The mood of the poem can best be described as",
+      "options": [
+        "hopeful",
+        "meditative",
+        "angry",
+        "joyful"
+      ],
+      "answer": "meditative"
+    },
+    {
+      "number": 20,
+      "question": "The poet’s attitude to life is one of",
+      "options": [
+        "faith",
+        "bitterness",
+        "regret",
+        "rebellion"
+      ],
+      "answer": "faith"
+    },
+    {
+      "number": 21,
+      "question": "A speech by a character alone on stage is a",
+      "options": [
+        "monologue",
+        "dialogue",
+        "soliloquy",
+        "aside"
+      ],
+      "answer": "soliloquy"
+    },
+    {
+      "number": 22,
+      "question": "The introduction that provides background to a play is the",
+      "options": [
+        "climax",
+        "exposition",
+        "resolution",
+        "conflict"
+      ],
+      "answer": "exposition"
+    },
+    {
+      "number": 23,
+      "question": "A play within a play is known as a",
+      "options": [
+        "pantomime",
+        "interlude",
+        "parody",
+        "meta-drama"
+      ],
+      "answer": "meta-drama"
+    },
+    {
+      "number": 24,
+      "question": "The highest point of tension in a play is the",
+      "options": [
+        "denouement",
+        "exposition",
+        "climax",
+        "anticlimax"
+      ],
+      "answer": "climax"
+    },
+    {
+      "number": 25,
+      "question": "The purging of emotion in a tragedy is called",
+      "options": [
+        "catharsis",
+        "hubris",
+        "hamartia",
+        "peripeteia"
+      ],
+      "answer": "catharsis"
+    },
+    {
+      "number": 26,
+      "question": "A humorous character who provides relief in a serious play is called the",
+      "options": [
+        "clown",
+        "villain",
+        "chorus",
         "protagonist"
       ],
-      "answer": "antagonist"
+      "answer": "clown"
+    },
+    {
+      "number": 27,
+      "question": "When a character speaks directly to the audience, it is an",
+      "options": [
+        "aside",
+        "flashback",
+        "irony",
+        "foreshadowing"
+      ],
+      "answer": "aside"
+    },
+    {
+      "number": 28,
+      "question": "The sequence of events leading to the end of a play is its",
+      "options": [
+        "exposition",
+        "resolution",
+        "theme",
+        "motif"
+      ],
+      "answer": "resolution"
+    },
+    {
+      "number": 29,
+      "question": "A play that ends unhappily for the main character is a",
+      "options": [
+        "tragedy",
+        "comedy",
+        "farce",
+        "satire"
+      ],
+      "answer": "tragedy"
+    },
+    {
+      "number": 30,
+      "question": "A dramatic performance without words but with gestures is a",
+      "options": [
+        "burlesque",
+        "mime",
+        "farce",
+        "opera"
+      ],
+      "answer": "mime"
     },
     {
       "number": 31,
-      "question": "The method of recording, preserving, and transmitting knowledge and entertainment is known as",
+      "question": "The atmosphere of the passage is",
       "options": [
-        "Prose",
-        "drama",
-        "literature",
-        "poetry"
+        "tense",
+        "romantic",
+        "cheerful",
+        "nostalgic"
       ],
-      "answer": "literature"
+      "answer": "tense"
     },
     {
       "number": 32,
-      "question": "Fictional work includes the following except",
+      "question": "The description of the shadow as a “dark ribbon” is an example of",
       "options": [
-        "memoir",
-        "novel",
-        "short story",
-        "parable"
+        "metaphor",
+        "simile",
+        "irony",
+        "paradox"
       ],
-      "answer": "memoir"
+      "answer": "metaphor"
     },
     {
       "number": 33,
-      "question": "Prose is classified into __________",
+      "question": "The dominant sensory image in the passage appeals to",
       "options": [
-        "3",
-        "4",
-        "5",
-        "2"
+        "sight",
+        "touch",
+        "smell",
+        "hearing"
       ],
-      "answer": "3"
+      "answer": "sight"
     },
     {
       "number": 34,
-      "question": "The characters in allegory represent human virtues like",
+      "question": "The main character’s feeling can best be described as",
       "options": [
-        "envy",
-        "contentment",
-        "cruelty",
-        "pride"
+        "fearful",
+        "content",
+        "indifferent",
+        "angry"
       ],
-      "answer": "contentment"
+      "answer": "fearful"
     },
     {
       "number": 35,
-      "question": "A fictional story that engenders fear in the reader is called",
+      "question": "The writer’s style in this passage can be described as",
       "options": [
-        "fiction",
-        "gothic",
-        "fable",
-        "allegory"
+        "descriptive",
+        "persuasive",
+        "narrative",
+        "expository"
       ],
-      "answer": "gothic"
+      "answer": "descriptive"
     },
     {
       "number": 36,
-      "question": "The geographical location of any literary work is known as",
+      "question": "A short, witty statement expressing a general truth is an",
       "options": [
-        "setting",
-        "plot",
+        "epigram",
+        "epitaph",
+        "elegy",
+        "ode"
+      ],
+      "answer": "epigram"
+    },
+    {
+      "number": 37,
+      "question": "An inscription written on a tombstone is an",
+      "options": [
+        "epitaph",
+        "epistle",
+        "monody",
+        "legend"
+      ],
+      "answer": "epitaph"
+    },
+    {
+      "number": 38,
+      "question": "A poem that celebrates rural life is called",
+      "options": [
+        "a pastoral",
+        "a sonnet",
+        "a limerick",
+        "a narrative"
+      ],
+      "answer": "a pastoral"
+    },
+    {
+      "number": 39,
+      "question": "Repetition in poetry is primarily used for",
+      "options": [
+        "emphasis",
+        "humor",
+        "confusion",
+        "contrast"
+      ],
+      "answer": "emphasis"
+    },
+    {
+      "number": 40,
+      "question": "The feeling a poem evokes in the reader is called its",
+      "options": [
+        "tone",
         "theme",
-        "none"
+        "mood",
+        "rhythm"
+      ],
+      "answer": "mood"
+    },
+    {
+      "number": 41,
+      "question": "A fourteen-line poem is known as a",
+      "options": [
+        "sonnet",
+        "ode",
+        "elegy",
+        "ballad"
+      ],
+      "answer": "sonnet"
+    },
+    {
+      "number": 42,
+      "question": "A mournful poem written for the dead is an",
+      "options": [
+        "ode",
+        "elegy",
+        "pastoral",
+        "satire"
+      ],
+      "answer": "elegy"
+    },
+    {
+      "number": 43,
+      "question": "The arrangement of stressed and unstressed syllables in poetry is called",
+      "options": [
+        "rhythm",
+        "meter",
+        "tone",
+        "rhyme"
+      ],
+      "answer": "meter"
+    },
+    {
+      "number": 44,
+      "question": "“The sun smiled upon the valley” is an example of",
+      "options": [
+        "personification",
+        "allusion",
+        "irony",
+        "apostrophe"
+      ],
+      "answer": "personification"
+    },
+    {
+      "number": 45,
+      "question": "A poem written to teach moral lessons is called a",
+      "options": [
+        "lyric",
+        "didactic",
+        "narrative",
+        "satirical poem"
+      ],
+      "answer": "didactic"
+    },
+    {
+      "number": 46,
+      "question": "The setting of the poem is",
+      "options": [
+        "a market",
+        "a farm",
+        "a forest",
+        "a school"
+      ],
+      "answer": "a market"
+    },
+    {
+      "number": 47,
+      "question": "The dominant literary device is",
+      "options": [
+        "personification",
+        "hyperbole",
+        "irony",
+        "metaphor"
+      ],
+      "answer": "personification"
+    },
+    {
+      "number": 48,
+      "question": "The rhyme scheme is",
+      "options": [
+        "abcb",
+        "abab",
+        "aabb",
+        "abba"
+      ],
+      "answer": "abab"
+    },
+    {
+      "number": 49,
+      "question": "The central theme of the poem is",
+      "options": [
+        "renewal and hope",
+        "loss and grief",
+        "anger and despair",
+        "pride and glory"
+      ],
+      "answer": "renewal and hope"
+    },
+    {
+      "number": 50,
+      "question": "The tone of the poem is",
+      "options": [
+        "hopeful",
+        "sorrowful",
+        "cynical",
+        "tragic"
+      ],
+      "answer": "hopeful"
+    },
+    {
+      "number": 51,
+      "question": "The time and place of a story are known as its",
+      "options": [
+        "plot",
+        "setting",
+        "theme",
+        "mood"
       ],
       "answer": "setting"
     },
     {
-      "number": 37,
-      "question": "The choice of words selected by the author to build his work is called",
+      "number": 52,
+      "question": "A character who does not change throughout the story is called a",
       "options": [
-        "setting",
-        "style",
-        "diction",
-        "tone"
+        "flat character",
+        "round character",
+        "protagonist",
+        "foil"
       ],
-      "answer": "diction"
+      "answer": "flat character"
     },
     {
-      "number": 38,
-      "question": "The aforementioned literary work is written by",
+      "number": 53,
+      "question": "The underlying message of a work of art is its",
       "options": [
-        "Aristotles",
-        "Basilia Izuegbu",
-        "Nicole Bertram",
-        "Shobago O. Samson"
+        "theme",
+        "plot",
+        "mood",
+        "dialogue"
       ],
-      "answer": "Nicole Bertram"
+      "answer": "theme"
     },
     {
-      "number": 39,
-      "question": "'Addiction' is an example of ________",
+      "number": 54,
+      "question": "When the opposite of what is expected occurs, it is called",
       "options": [
-        "Drama",
-        "poetry",
-        "farce",
-        "prose"
+        "irony",
+        "satire",
+        "paradox",
+        "pun"
       ],
-      "answer": "Drama"
+      "answer": "irony"
     },
     {
-      "number": 40,
-      "question": "The protagonist of the above literary work is ________",
+      "number": 55,
+      "question": "“The kettle hissed angrily on the fire” is an example of",
       "options": [
-        "Mr. Israel",
-        "Sidney",
-        "Taiwo and Kehinde",
-        "Mrs. Esther"
+        "onomatopoeia",
+        "simile",
+        "hyperbole",
+        "irony"
       ],
-      "answer": "Sidney"
+      "answer": "onomatopoeia"
     },
     {
-      "number": 41,
-      "question": "Mr. Israel is a _______",
+      "number": 56,
+      "question": "The atmosphere created by a writer’s choice of words is the",
       "options": [
-        "civil servant",
-        "trader",
-        "businessman",
-        "carpenter"
+        "tone",
+        "mood",
+        "theme",
+        "structure"
       ],
-      "answer": "civil servant"
+      "answer": "mood"
     },
     {
-      "number": 42,
-      "question": "The drama is published in",
+      "number": 57,
+      "question": "A short narrative with a moral lesson is a",
       "options": [
-        "2014",
-        "2021",
-        "2022",
-        "2024"
+        "parable",
+        "fable",
+        "myth",
+        "allegory"
       ],
-      "answer": "2021"
+      "answer": "fable"
     },
     {
-      "number": 43,
-      "question": "The drama was set in",
+      "number": 58,
+      "question": "When a part represents the whole, the figure of speech is",
       "options": [
-        "Kaduna",
-        "Imo State",
-        "Abuja",
-        "Lagos"
+        "metonymy",
+        "synecdoche",
+        "paradox",
+        "understatement"
       ],
-      "answer": "Kaduna"
+      "answer": "synecdoche"
     },
     {
-      "number": 44,
-      "question": "Pick out the odd one",
+      "number": 59,
+      "question": "The repetition of similar vowel sounds in successive words is called",
       "options": [
-        "Williams",
-        "Taiwo",
-        "Lucia",
-        "Sydney"
+        "alliteration",
+        "assonance",
+        "rhyme",
+        "consonance"
       ],
-      "answer": "Taiwo"
+      "answer": "assonance"
     },
     {
-      "number": 45,
-      "question": "\"Kettle calling pot black\" — Who made the above statement?",
+      "number": 60,
+      "question": "A narrative that ridicules human folly using humor is called",
       "options": [
-        "Mr. Israel",
-        "Sidney",
-        "Mrs Esther",
-        "Doris"
+        "satire",
+        "parody",
+        "elegy",
+        "farce"
       ],
-      "answer": "Mrs Esther"
-    },
-    {
-      "number": 46,
-      "question": "\"Kettle calling pot black\" - The speaker is referring to",
-      "options": [
-        "Williams",
-        "Amanda",
-        "Mr. Israel",
-        "Mrs. Esther"
-      ],
-      "answer": "Mr. Israel"
-    },
-    {
-      "number": 47,
-      "question": "Who made the title of the book 'Addiction' come to limelight?",
-      "options": [
-        "Sidney",
-        "Andrew",
-        "Kehinde",
-        "Taiwo"
-      ],
-      "answer": "Andrew"
-    },
-    {
-      "number": 48,
-      "question": "\"Everything in this country is on the fiddle\" — The speaker above is",
-      "options": [
-        "Richard",
-        "Sidney",
-        "Lucia",
-        "Williams"
-      ],
-      "answer": "Lucia"
-    },
-    {
-      "number": 49,
-      "question": "\"Everything in this country is on the fiddle\" - The speaker is referring to who?",
-      "options": [
-        "Sidney",
-        "Nurse Eliza",
-        "Lucia",
-        "Williams"
-      ],
-      "answer": "Nurse Eliza"
-    },
-    {
-      "number": 50,
-      "question": "\"Everything in this country is on the fiddle\" - Where did the speaker make the statement?",
-      "options": [
-        "House",
-        "Hospital",
-        "School",
-        "Market"
-      ],
-      "answer": "Hospital"
+      "answer": "satire"
     }
   ]
 
