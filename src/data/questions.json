@@ -1,663 +1,552 @@
 [
     {
       "number": 1,
-      "question": "The sequence of events in a story is called the",
+      "question": "Government as an art of governing refers to",
       "options": [
-        "theme",
-        "plot",
-        "mood",
-        "style"
+        "the study of past political events",
+        "the process of making and enforcing laws within a state",
+        "the total population of a country",
+        "the history of leadership"
       ],
-      "answer": "plot"
+      "answer": "the process of making and enforcing laws within a state"
     },
     {
       "number": 2,
-      "question": "The person who tells a story is the",
+      "question": "Which of the following best describes government as an art of governing?",
       "options": [
-        "writer",
-        "actor",
-        "narrator",
-        "persona"
+        "The act of managing people’s resources and affairs in a state",
+        "The theoretical study of political systems",
+        "The cultural behavior of citizens",
+        "The customs and traditions of a society"
       ],
-      "answer": "narrator"
+      "answer": "The act of managing people’s resources and affairs in a state"
     },
     {
       "number": 3,
-      "question": "The main character in a novel or play is known as the",
+      "question": "Government as an academic field of study deals mainly with",
       "options": [
-        "antagonist",
-        "foil",
-        "protagonist",
-        "hero"
+        "the practice of religion in the society",
+        "the study of political institutions and their operations",
+        "the art of trading and commerce",
+        "the management of family resources"
       ],
-      "answer": "protagonist"
+      "answer": "the study of political institutions and their operations"
     },
     {
       "number": 4,
-      "question": "A story that ends happily after trials is generally called a",
+      "question": "Which of the following is NOT an attribute of government?",
       "options": [
-        "satire",
-        "comedy",
-        "tragedy",
-        "melodrama"
+        "Authority",
+        "Legitimacy",
+        "Sovereignty",
+        "Illiteracy"
       ],
-      "answer": "comedy"
+      "answer": "Illiteracy"
     },
     {
       "number": 5,
-      "question": "Language that appeals to the senses is called",
+      "question": "One major attribute of government that enables it to make laws binding on citizens is",
       "options": [
-        "irony",
-        "imagery",
-        "diction",
-        "allusion"
+        "Equality",
+        "Sovereignty",
+        "Diplomacy",
+        "Federalism"
       ],
-      "answer": "imagery"
+      "answer": "Sovereignty"
     },
     {
       "number": 6,
-      "question": "The repetition of consonant sounds at the beginning of words is called",
+      "question": "The main function of government in a state is to",
       "options": [
-        "rhyme",
-        "rhythm",
-        "alliteration",
-        "pun"
+        "maintain law and order",
+        "promote tribalism",
+        "encourage anarchy",
+        "abolish the constitution"
       ],
-      "answer": "alliteration"
+      "answer": "maintain law and order"
     },
     {
       "number": 7,
-      "question": "A direct comparison using \"like\" or \"as\" is a",
+      "question": "Protection of lives and property by the police and armed forces illustrates government’s function of",
       "options": [
-        "metaphor",
-        "simile",
-        "paradox",
-        "hyperbole"
+        "providing social amenities",
+        "defending the state",
+        "maintaining security",
+        "promoting culture"
       ],
-      "answer": "simile"
+      "answer": "maintaining security"
     },
     {
       "number": 8,
-      "question": "The conversation between characters in a play is known as",
+      "question": "One of the social functions of government is to",
       "options": [
-        "dialogue",
-        "soliloquy",
-        "aside",
-        "monologue"
+        "enforce dictatorship",
+        "provide education and healthcare for citizens",
+        "restrict freedom of movement",
+        "promote political apathy"
       ],
-      "answer": "dialogue"
+      "answer": "provide education and healthcare for citizens"
     },
     {
       "number": 9,
-      "question": "When a line of poetry continues into the next without pause, it is called",
+      "question": "The importance of studying government in schools includes",
       "options": [
-        "inversion",
-        "enjambment",
-        "metonymy",
-        "ellipsis"
+        "encouraging ignorance of politics",
+        "promoting understanding of political processes and civic duties",
+        "discouraging leadership training",
+        "encouraging violence in society"
       ],
-      "answer": "enjambment"
+      "answer": "promoting understanding of political processes and civic duties"
     },
     {
       "number": 10,
-      "question": "A long narrative poem about heroic deeds is a/an",
+      "question": "By studying government, citizens can",
       "options": [
-        "ode",
-        "epic",
-        "elegy",
-        "dirge"
+        "learn to disobey laws",
+        "better understand their rights, duties, and how to participate in governance",
+        "avoid participation in political activities",
+        "ignore political authority"
       ],
-      "answer": "epic"
+      "answer": "better understand their rights, duties, and how to participate in governance"
     },
     {
       "number": 11,
-      "question": "The mood of the passage is",
+      "question": "Democracy can best be defined as",
       "options": [
-        "fearful",
-        "anxious",
-        "relieved",
-        "gloomy"
+        "a system of government where power is inherited",
+        "government by the rich and influential",
+        "government of the people, by the people and for the people",
+        "a system of government controlled by the military"
       ],
-      "answer": "relieved"
+      "answer": "government of the people, by the people and for the people"
     },
     {
       "number": 12,
-      "question": "The dominant literary device is",
+      "question": "Which of the following describes a direct democracy?",
       "options": [
-        "personification",
-        "simile",
-        "metaphor",
-        "hyperbole"
+        "Government by elected representatives",
+        "Citizens making laws and decisions directly",
+        "Rule by hereditary monarchs",
+        "Administration by the judiciary"
       ],
-      "answer": "simile"
+      "answer": "Citizens making laws and decisions directly"
     },
     {
       "number": 13,
-      "question": "The rain symbolizes",
+      "question": "In an indirect democracy, the people",
       "options": [
-        "destruction",
-        "renewal",
-        "harvest",
-        "danger"
+        "rule themselves directly in all matters",
+        "choose representatives to govern on their behalf",
+        "have no say in government affairs",
+        "must vote in every decision of parliament"
       ],
-      "answer": "renewal"
+      "answer": "choose representatives to govern on their behalf"
     },
     {
       "number": 14,
-      "question": "The setting of the passage is likely",
+      "question": "Which of the following is a feature of democracy?",
       "options": [
-        "a farmstead",
-        "a market",
-        "a school",
-        "a courtroom"
+        "Suppression of opposition",
+        "Regular and free elections",
+        "Rule by decree",
+        "Government by the few"
       ],
-      "answer": "a farmstead"
+      "answer": "Regular and free elections"
     },
     {
       "number": 15,
-      "question": "The tone of the writer is",
+      "question": "The principle of majority rule in democracy implies that",
       "options": [
-        "joyful",
-        "sorrowful",
-        "sarcastic",
-        "humorous"
+        "the rich must always control the government",
+        "the decision supported by most citizens prevails",
+        "minority groups have no rights",
+        "the military decides all policies"
       ],
-      "answer": "joyful"
+      "answer": "the decision supported by most citizens prevails"
     },
     {
       "number": 16,
-      "question": "The poem’s theme centers on",
+      "question": "Which of the following is NOT a characteristic of democracy?",
       "options": [
-        "patience in suffering",
-        "joy in victory",
-        "freedom from fear",
-        "love in absence"
+        "Freedom of speech and association",
+        "Existence of the rule of law",
+        "Concentration of power in one person",
+        "Periodic elections"
       ],
-      "answer": "patience in suffering"
+      "answer": "Concentration of power in one person"
     },
     {
       "number": 17,
-      "question": "The expression “how my light is spent” is an example of",
+      "question": "One merit of democracy is that it",
       "options": [
-        "irony",
-        "symbol",
-        "personification",
-        "apostrophe"
+        "encourages dictatorship",
+        "promotes accountability and transparency",
+        "discourages citizen participation",
+        "suppresses individual rights"
       ],
-      "answer": "symbol"
+      "answer": "promotes accountability and transparency"
     },
     {
       "number": 18,
-      "question": "The rhyme scheme of the stanza is",
+      "question": "Which of the following best promotes democratic practice?",
       "options": [
-        "abba",
-        "abab",
-        "aabb",
-        "abcb"
+        "Censorship of the media",
+        "Independence of the judiciary",
+        "Suspension of elections",
+        "Rule by decree"
       ],
-      "answer": "abab"
+      "answer": "Independence of the judiciary"
     },
     {
       "number": 19,
-      "question": "The mood of the poem can best be described as",
+      "question": "A major advantage of democracy is that it",
       "options": [
-        "hopeful",
-        "meditative",
-        "angry",
-        "joyful"
+        "ensures equality and protects human rights",
+        "discourages public debate",
+        "allows military control of government",
+        "abolishes the legislature"
       ],
-      "answer": "meditative"
+      "answer": "ensures equality and protects human rights"
     },
     {
       "number": 20,
-      "question": "The poet’s attitude to life is one of",
+      "question": "One of the merits of democracy is that it",
       "options": [
-        "faith",
-        "bitterness",
-        "regret",
-        "rebellion"
+        "promotes peaceful change of government through elections",
+        "depends solely on the ruler’s decision",
+        "allows only one political party",
+        "discourages political participation"
       ],
-      "answer": "faith"
+      "answer": "promotes peaceful change of government through elections"
     },
     {
       "number": 21,
-      "question": "A speech by a character alone on stage is a",
+      "question": "Political culture can best be defined as",
       "options": [
-        "monologue",
-        "dialogue",
-        "soliloquy",
-        "aside"
+        "the system of government practiced in a country",
+        "the totality of people’s attitudes, beliefs, and values toward politics and government",
+        "the political party system in a nation",
+        "the method of electing leaders"
       ],
-      "answer": "soliloquy"
+      "answer": "the totality of people’s attitudes, beliefs, and values toward politics and government"
     },
     {
       "number": 22,
-      "question": "The introduction that provides background to a play is the",
+      "question": "Which of the following is not a component of political culture?",
       "options": [
-        "climax",
-        "exposition",
-        "resolution",
-        "conflict"
+        "Cognitive orientation",
+        "Affective orientation",
+        "Evaluative orientation",
+        "Legislative orientation"
       ],
-      "answer": "exposition"
+      "answer": "Legislative orientation"
     },
     {
       "number": 23,
-      "question": "A play within a play is known as a",
+      "question": "The component of political culture that relates to people’s knowledge and understanding of political institutions is called",
       "options": [
-        "pantomime",
-        "interlude",
-        "parody",
-        "meta-drama"
+        "affective orientation",
+        "cognitive orientation",
+        "evaluative orientation",
+        "emotional orientation"
       ],
-      "answer": "meta-drama"
+      "answer": "cognitive orientation"
     },
     {
       "number": 24,
-      "question": "The highest point of tension in a play is the",
+      "question": "The aspect of political culture that involves people’s feelings and emotional attachment to political symbols and institutions is",
       "options": [
-        "denouement",
-        "exposition",
-        "climax",
-        "anticlimax"
+        "cognitive orientation",
+        "evaluative orientation",
+        "affective orientation",
+        "normative orientation"
       ],
-      "answer": "climax"
+      "answer": "affective orientation"
     },
     {
       "number": 25,
-      "question": "The purging of emotion in a tragedy is called",
+      "question": "Which of the following is a determinant of political culture?",
       "options": [
-        "catharsis",
-        "hubris",
-        "hamartia",
-        "peripeteia"
+        "Political apathy",
+        "Historical experience",
+        "Political indoctrination",
+        "Voter registration"
       ],
-      "answer": "catharsis"
+      "answer": "Historical experience"
     },
     {
       "number": 26,
-      "question": "A humorous character who provides relief in a serious play is called the",
+      "question": "The family, school, and peer groups help in shaping the political culture of an individual through",
       "options": [
-        "clown",
-        "villain",
-        "chorus",
-        "protagonist"
+        "political socialization",
+        "political manipulation",
+        "political repression",
+        "political indoctrination"
       ],
-      "answer": "clown"
+      "answer": "political socialization"
     },
     {
       "number": 27,
-      "question": "When a character speaks directly to the audience, it is an",
+      "question": "Which of the following factors may influence the political culture of a nation?",
       "options": [
-        "aside",
-        "flashback",
-        "irony",
-        "foreshadowing"
+        "Economic development",
+        "Religious beliefs",
+        "Level of education",
+        "All of the above"
       ],
-      "answer": "aside"
+      "answer": "All of the above"
     },
     {
       "number": 28,
-      "question": "The sequence of events leading to the end of a play is its",
+      "question": "For democracy to succeed, citizens must",
       "options": [
-        "exposition",
-        "resolution",
-        "theme",
-        "motif"
+        "be indifferent to government policies",
+        "show political apathy",
+        "participate actively in politics",
+        "avoid criticizing government actions"
       ],
-      "answer": "resolution"
+      "answer": "participate actively in politics"
     },
     {
       "number": 29,
-      "question": "A play that ends unhappily for the main character is a",
+      "question": "Which of the following is a condition necessary for a successful democracy?",
       "options": [
-        "tragedy",
-        "comedy",
-        "farce",
-        "satire"
+        "Absence of opposition parties",
+        "Freedom of speech and association",
+        "Control of the press by government",
+        "Lifetime tenure for leaders"
       ],
-      "answer": "tragedy"
+      "answer": "Freedom of speech and association"
     },
     {
       "number": 30,
-      "question": "A dramatic performance without words but with gestures is a",
+      "question": "One major condition for the stability of democracy is",
       "options": [
-        "burlesque",
-        "mime",
-        "farce",
-        "opera"
+        "illiteracy of the masses",
+        "respect for the rule of law",
+        "dominance of the military",
+        "lack of accountability"
       ],
-      "answer": "mime"
+      "answer": "respect for the rule of law"
     },
     {
       "number": 31,
-      "question": "The atmosphere of the passage is",
+      "question": "A political culture that supports tolerance, participation, and respect for individual rights is known as",
       "options": [
-        "tense",
-        "romantic",
-        "cheerful",
-        "nostalgic"
+        "parochial political culture",
+        "participant political culture",
+        "subject political culture",
+        "authoritarian political culture"
       ],
-      "answer": "tense"
+      "answer": "participant political culture"
     },
     {
       "number": 32,
-      "question": "The description of the shadow as a “dark ribbon” is an example of",
+      "question": "Power in political science can best be defined as",
       "options": [
-        "metaphor",
-        "simile",
-        "irony",
-        "paradox"
+        "the ability to influence others to do what they would not ordinarily do",
+        "the right to rule over others legally",
+        "the exercise of force by the military",
+        "the ability to make laws"
       ],
-      "answer": "metaphor"
+      "answer": "the ability to influence others to do what they would not ordinarily do"
     },
     {
       "number": 33,
-      "question": "The dominant sensory image in the passage appeals to",
+      "question": "Which of the following is not a form of power?",
       "options": [
-        "sight",
-        "touch",
-        "smell",
-        "hearing"
+        "Political power",
+        "Economic power",
+        "Physical power",
+        "Legislative authority"
       ],
-      "answer": "sight"
+      "answer": "Legislative authority"
     },
     {
       "number": 34,
-      "question": "The main character’s feeling can best be described as",
+      "question": "The type of power that depends on wealth and control of resources is called",
       "options": [
-        "fearful",
-        "content",
-        "indifferent",
-        "angry"
+        "coercive power",
+        "economic power",
+        "political power",
+        "traditional power"
       ],
-      "answer": "fearful"
+      "answer": "economic power"
     },
     {
       "number": 35,
-      "question": "The writer’s style in this passage can be described as",
+      "question": "Authority can be defined as",
       "options": [
-        "descriptive",
-        "persuasive",
-        "narrative",
-        "expository"
+        "power that is legally and socially recognized as rightful",
+        "the ability to compel obedience through threats",
+        "the control of resources and wealth",
+        "the capacity to manipulate people’s opinions"
       ],
-      "answer": "descriptive"
+      "answer": "power that is legally and socially recognized as rightful"
     },
     {
       "number": 36,
-      "question": "A short, witty statement expressing a general truth is an",
+      "question": "Which of the following is not a kind of authority identified by Max Weber?",
       "options": [
-        "epigram",
-        "epitaph",
-        "elegy",
-        "ode"
+        "Traditional authority",
+        "Rational-legal authority",
+        "Charismatic authority",
+        "Coercive authority"
       ],
-      "answer": "epigram"
+      "answer": "Coercive authority"
     },
     {
       "number": 37,
-      "question": "An inscription written on a tombstone is an",
+      "question": "Traditional authority is based mainly on",
       "options": [
-        "epitaph",
-        "epistle",
-        "monody",
-        "legend"
+        "personal qualities of a leader",
+        "established customs and traditions",
+        "written constitutional laws",
+        "the use of military force"
       ],
-      "answer": "epitaph"
+      "answer": "established customs and traditions"
     },
     {
       "number": 38,
-      "question": "A poem that celebrates rural life is called",
+      "question": "Charismatic authority is derived from",
       "options": [
-        "a pastoral",
-        "a sonnet",
-        "a limerick",
-        "a narrative"
+        "the personal appeal and extraordinary qualities of a leader",
+        "the constitution and legal framework",
+        "the power of the ruling class",
+        "the control of the economy"
       ],
-      "answer": "a pastoral"
+      "answer": "the personal appeal and extraordinary qualities of a leader"
     },
     {
       "number": 39,
-      "question": "Repetition in poetry is primarily used for",
+      "question": "De-facto authority refers to",
       "options": [
-        "emphasis",
-        "humor",
-        "confusion",
-        "contrast"
+        "authority based on legal recognition",
+        "authority exercised by someone who holds power without legal backing",
+        "authority derived from traditional institutions",
+        "authority granted by the constitution"
       ],
-      "answer": "emphasis"
+      "answer": "authority exercised by someone who holds power without legal backing"
     },
     {
       "number": 40,
-      "question": "The feeling a poem evokes in the reader is called its",
+      "question": "De-jure authority is",
       "options": [
-        "tone",
-        "theme",
-        "mood",
-        "rhythm"
+        "authority held by a person recognized by law",
+        "authority gained through military takeover",
+        "authority based on popular charisma",
+        "authority derived from force and coercion"
       ],
-      "answer": "mood"
+      "answer": "authority held by a person recognized by law"
     },
     {
       "number": 41,
-      "question": "A fourteen-line poem is known as a",
+      "question": "Legitimacy in government refers to",
       "options": [
-        "sonnet",
-        "ode",
-        "elegy",
-        "ballad"
+        "the acceptance of government’s rule as right and just by the people",
+        "the ability of government to maintain law and order",
+        "the use of power by force",
+        "the presence of opposition parties"
       ],
-      "answer": "sonnet"
+      "answer": "the acceptance of government’s rule as right and just by the people"
     },
     {
       "number": 42,
-      "question": "A mournful poem written for the dead is an",
+      "question": "Feudalism can best be described as a system of government in which",
       "options": [
-        "ode",
-        "elegy",
-        "pastoral",
-        "satire"
+        "power is derived from the people",
+        "land is owned by feudal lords and worked by serfs",
+        "everyone owns equal portions of land",
+        "political power rests on written constitution"
       ],
-      "answer": "elegy"
+      "answer": "land is owned by feudal lords and worked by serfs"
     },
     {
       "number": 43,
-      "question": "The arrangement of stressed and unstressed syllables in poetry is called",
+      "question": "Which of the following was the major feature of feudalism?",
       "options": [
-        "rhythm",
-        "meter",
-        "tone",
-        "rhyme"
+        "Centralized authority and equality",
+        "Ownership of land by peasants",
+        "Loyalty of vassals to their lords",
+        "Separation of power"
       ],
-      "answer": "meter"
+      "answer": "Loyalty of vassals to their lords"
     },
     {
       "number": 44,
-      "question": "“The sun smiled upon the valley” is an example of",
+      "question": "In a feudal system, the serfs were expected to",
       "options": [
-        "personification",
-        "allusion",
-        "irony",
-        "apostrophe"
+        "control the armies of their lords",
+        "till the land and serve their lords",
+        "make laws for the community",
+        "participate in national elections"
       ],
-      "answer": "personification"
+      "answer": "till the land and serve their lords"
     },
     {
       "number": 45,
-      "question": "A poem written to teach moral lessons is called a",
+      "question": "The political relationship between the lord and the vassal in feudalism was based mainly on",
       "options": [
-        "lyric",
-        "didactic",
-        "narrative",
-        "satirical poem"
+        "religious tolerance",
+        "mutual protection and service",
+        "equality and justice",
+        "parliamentary authority"
       ],
-      "answer": "didactic"
+      "answer": "mutual protection and service"
     },
     {
       "number": 46,
-      "question": "The setting of the poem is",
+      "question": "Which of the following best defines communalism?",
       "options": [
-        "a market",
-        "a farm",
-        "a forest",
-        "a school"
+        "A system where wealth is privately owned",
+        "A system where land and resources are communally owned and shared",
+        "A government based on aristocracy",
+        "A society governed by military rulers"
       ],
-      "answer": "a market"
+      "answer": "A system where land and resources are communally owned and shared"
     },
     {
       "number": 47,
-      "question": "The dominant literary device is",
+      "question": "In traditional African society, communalism was based on",
       "options": [
-        "personification",
-        "hyperbole",
-        "irony",
-        "metaphor"
+        "individualism and competition",
+        "equality and shared ownership",
+        "capitalism and private property",
+        "military conquest"
       ],
-      "answer": "personification"
+      "answer": "equality and shared ownership"
     },
     {
       "number": 48,
-      "question": "The rhyme scheme is",
+      "question": "One major advantage of communalism is that it",
       "options": [
-        "abcb",
-        "abab",
-        "aabb",
-        "abba"
+        "encourages selfishness among members",
+        "promotes unity and cooperation",
+        "reduces the sense of belonging",
+        "supports exploitation of others"
       ],
-      "answer": "abab"
+      "answer": "promotes unity and cooperation"
     },
     {
       "number": 49,
-      "question": "The central theme of the poem is",
+      "question": "Which of the following was a key economic feature of communalism?",
       "options": [
-        "renewal and hope",
-        "loss and grief",
-        "anger and despair",
-        "pride and glory"
+        "Exchange of goods through money",
+        "Joint ownership of land and resources",
+        "Individual accumulation of wealth",
+        "Industrial specialization"
       ],
-      "answer": "renewal and hope"
+      "answer": "Joint ownership of land and resources"
     },
     {
       "number": 50,
-      "question": "The tone of the poem is",
+      "question": "A major difference between feudalism and communalism is that",
       "options": [
-        "hopeful",
-        "sorrowful",
-        "cynical",
-        "tragic"
+        "feudalism is based on land ownership by lords, while communalism is based on shared ownership",
+        "both promote equal distribution of land",
+        "feudalism exists only in Africa, communalism in Europe",
+        "both are forms of democratic systems"
       ],
-      "answer": "hopeful"
-    },
-    {
-      "number": 51,
-      "question": "The time and place of a story are known as its",
-      "options": [
-        "plot",
-        "setting",
-        "theme",
-        "mood"
-      ],
-      "answer": "setting"
-    },
-    {
-      "number": 52,
-      "question": "A character who does not change throughout the story is called a",
-      "options": [
-        "flat character",
-        "round character",
-        "protagonist",
-        "foil"
-      ],
-      "answer": "flat character"
-    },
-    {
-      "number": 53,
-      "question": "The underlying message of a work of art is its",
-      "options": [
-        "theme",
-        "plot",
-        "mood",
-        "dialogue"
-      ],
-      "answer": "theme"
-    },
-    {
-      "number": 54,
-      "question": "When the opposite of what is expected occurs, it is called",
-      "options": [
-        "irony",
-        "satire",
-        "paradox",
-        "pun"
-      ],
-      "answer": "irony"
-    },
-    {
-      "number": 55,
-      "question": "“The kettle hissed angrily on the fire” is an example of",
-      "options": [
-        "onomatopoeia",
-        "simile",
-        "hyperbole",
-        "irony"
-      ],
-      "answer": "onomatopoeia"
-    },
-    {
-      "number": 56,
-      "question": "The atmosphere created by a writer’s choice of words is the",
-      "options": [
-        "tone",
-        "mood",
-        "theme",
-        "structure"
-      ],
-      "answer": "mood"
-    },
-    {
-      "number": 57,
-      "question": "A short narrative with a moral lesson is a",
-      "options": [
-        "parable",
-        "fable",
-        "myth",
-        "allegory"
-      ],
-      "answer": "fable"
-    },
-    {
-      "number": 58,
-      "question": "When a part represents the whole, the figure of speech is",
-      "options": [
-        "metonymy",
-        "synecdoche",
-        "paradox",
-        "understatement"
-      ],
-      "answer": "synecdoche"
-    },
-    {
-      "number": 59,
-      "question": "The repetition of similar vowel sounds in successive words is called",
-      "options": [
-        "alliteration",
-        "assonance",
-        "rhyme",
-        "consonance"
-      ],
-      "answer": "assonance"
-    },
-    {
-      "number": 60,
-      "question": "A narrative that ridicules human folly using humor is called",
-      "options": [
-        "satire",
-        "parody",
-        "elegy",
-        "farce"
-      ],
-      "answer": "satire"
+      "answer": "feudalism is based on land ownership by lords, while communalism is based on shared ownership"
     }
   ]
-
