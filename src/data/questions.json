@@ -1,552 +1,322 @@
 [
     {
       "number": 1,
-      "question": "Government as an art of governing refers to",
-      "options": [
-        "the study of past political events",
-        "the process of making and enforcing laws within a state",
-        "the total population of a country",
-        "the history of leadership"
-      ],
-      "answer": "the process of making and enforcing laws within a state"
+      "question": "One of this is not an adaptive feature of a cat fish",
+      "options": ["streamlined body", "well developed eyes", "limbs", "gills"],
+      "answer": "limbs"
     },
     {
       "number": 2,
-      "question": "Which of the following best describes government as an art of governing?",
-      "options": [
-        "The act of managing people’s resources and affairs in a state",
-        "The theoretical study of political systems",
-        "The cultural behavior of citizens",
-        "The customs and traditions of a society"
-      ],
-      "answer": "The act of managing people’s resources and affairs in a state"
+      "question": "One of this is not an adaptive feature of a rat",
+      "options": ["lungs", "limbs", "eyes", "streamlines body"],
+      "answer": "streamlines body"
     },
     {
       "number": 3,
-      "question": "Government as an academic field of study deals mainly with",
-      "options": [
-        "the practice of religion in the society",
-        "the study of political institutions and their operations",
-        "the art of trading and commerce",
-        "the management of family resources"
-      ],
-      "answer": "the study of political institutions and their operations"
+      "question": "One of this is not a habitat of spirogyra",
+      "options": ["pond", "river", "clay soil", "stream"],
+      "answer": "clay soil"
     },
     {
       "number": 4,
-      "question": "Which of the following is NOT an attribute of government?",
-      "options": [
-        "Authority",
-        "Legitimacy",
-        "Sovereignty",
-        "Illiteracy"
-      ],
-      "answer": "Illiteracy"
+      "question": "One of the following is not a feature of a pigeon",
+      "options": ["possession of four limbs", "streamlined body", "wings", "beak"],
+      "answer": "possession of four limbs"
     },
     {
       "number": 5,
-      "question": "One major attribute of government that enables it to make laws binding on citizens is",
-      "options": [
-        "Equality",
-        "Sovereignty",
-        "Diplomacy",
-        "Federalism"
-      ],
-      "answer": "Sovereignty"
+      "question": "A relationship whereby an organism benefits from another organism and it is not affected is called",
+      "options": ["mutualism", "commensalism", "competition", "parasitism"],
+      "answer": "commensalism"
     },
     {
       "number": 6,
-      "question": "The main function of government in a state is to",
-      "options": [
-        "maintain law and order",
-        "promote tribalism",
-        "encourage anarchy",
-        "abolish the constitution"
-      ],
-      "answer": "maintain law and order"
+      "question": "A relationship in which organisms benefit from each other is known as",
+      "options": ["mutualism", "predation", "parasitism", "commensalism"],
+      "answer": "mutualism"
     },
     {
       "number": 7,
-      "question": "Protection of lives and property by the police and armed forces illustrates government’s function of",
-      "options": [
-        "providing social amenities",
-        "defending the state",
-        "maintaining security",
-        "promoting culture"
-      ],
-      "answer": "maintaining security"
+      "question": "A relationship in which one organism benefits while the host is harmed is",
+      "options": ["competition", "mutualism", "predation", "parasitism"],
+      "answer": "parasitism"
     },
     {
       "number": 8,
-      "question": "One of the social functions of government is to",
-      "options": [
-        "enforce dictatorship",
-        "provide education and healthcare for citizens",
-        "restrict freedom of movement",
-        "promote political apathy"
-      ],
-      "answer": "provide education and healthcare for citizens"
+      "question": "The terrestrial habitats includes all except",
+      "options": ["arboreal", "soil", "pond", "under the ground"],
+      "answer": "pond"
     },
     {
       "number": 9,
-      "question": "The importance of studying government in schools includes",
-      "options": [
-        "encouraging ignorance of politics",
-        "promoting understanding of political processes and civic duties",
-        "discouraging leadership training",
-        "encouraging violence in society"
-      ],
-      "answer": "promoting understanding of political processes and civic duties"
+      "question": "Which of the following comes first in a food chain?",
+      "options": ["Consumers", "Decomposers", "Producers", "Secondary consumers"],
+      "answer": "Producers"
     },
     {
       "number": 10,
-      "question": "By studying government, citizens can",
-      "options": [
-        "learn to disobey laws",
-        "better understand their rights, duties, and how to participate in governance",
-        "avoid participation in political activities",
-        "ignore political authority"
-      ],
-      "answer": "better understand their rights, duties, and how to participate in governance"
+      "question": "In the trophic levels, green plants are known as",
+      "options": ["herbivores", "producers", "omnivores", "carnivores"],
+      "answer": "producers"
     },
     {
       "number": 11,
-      "question": "Democracy can best be defined as",
-      "options": [
-        "a system of government where power is inherited",
-        "government by the rich and influential",
-        "government of the people, by the people and for the people",
-        "a system of government controlled by the military"
-      ],
-      "answer": "government of the people, by the people and for the people"
+      "question": "One of the following organism is not a saprophyte",
+      "options": ["rat", "snail", "bacteria", "mushroom"],
+      "answer": "rat"
     },
     {
       "number": 12,
-      "question": "Which of the following describes a direct democracy?",
-      "options": [
-        "Government by elected representatives",
-        "Citizens making laws and decisions directly",
-        "Rule by hereditary monarchs",
-        "Administration by the judiciary"
-      ],
-      "answer": "Citizens making laws and decisions directly"
+      "question": "One of the following animals is not a primate",
+      "options": ["Man", "Gorilla", "Chimpanzee", "Elephant"],
+      "answer": "Elephant"
     },
     {
       "number": 13,
-      "question": "In an indirect democracy, the people",
-      "options": [
-        "rule themselves directly in all matters",
-        "choose representatives to govern on their behalf",
-        "have no say in government affairs",
-        "must vote in every decision of parliament"
-      ],
-      "answer": "choose representatives to govern on their behalf"
+      "question": "All of these are characteristics of a primate except",
+      "options": ["stereoscopic vision", "they have opposable thumbs", "oviparous", "ability to stand and walk upright"],
+      "answer": "oviparous"
     },
     {
       "number": 14,
-      "question": "Which of the following is a feature of democracy?",
-      "options": [
-        "Suppression of opposition",
-        "Regular and free elections",
-        "Rule by decree",
-        "Government by the few"
-      ],
-      "answer": "Regular and free elections"
+      "question": "Possession of a large well developed brain is a characteristic of",
+      "options": ["Ape", "Man", "Gorilla", "Monkey"],
+      "answer": "Man"
     },
     {
       "number": 15,
-      "question": "The principle of majority rule in democracy implies that",
-      "options": [
-        "the rich must always control the government",
-        "the decision supported by most citizens prevails",
-        "minority groups have no rights",
-        "the military decides all policies"
-      ],
-      "answer": "the decision supported by most citizens prevails"
+      "question": "Temporary developmental changes include all except",
+      "options": ["technical skills", "communication skill", "increase in height", "manual skill"],
+      "answer": "increase in height"
     },
     {
       "number": 16,
-      "question": "Which of the following is NOT a characteristic of democracy?",
-      "options": [
-        "Freedom of speech and association",
-        "Existence of the rule of law",
-        "Concentration of power in one person",
-        "Periodic elections"
-      ],
-      "answer": "Concentration of power in one person"
+      "question": "One of this is not a factor that affects growth",
+      "options": ["sex", "colour", "nutrition", "heredity"],
+      "answer": "colour"
     },
     {
       "number": 17,
-      "question": "One merit of democracy is that it",
-      "options": [
-        "encourages dictatorship",
-        "promotes accountability and transparency",
-        "discourages citizen participation",
-        "suppresses individual rights"
-      ],
-      "answer": "promotes accountability and transparency"
+      "question": "The three states of matter in ascending order of their kinetic energy are",
+      "options": ["gas – solid – water", "solid – water – gas", "water – gas – solid", "water – solid – gas"],
+      "answer": "solid – water – gas"
     },
     {
       "number": 18,
-      "question": "Which of the following best promotes democratic practice?",
-      "options": [
-        "Censorship of the media",
-        "Independence of the judiciary",
-        "Suspension of elections",
-        "Rule by decree"
-      ],
-      "answer": "Independence of the judiciary"
+      "question": "One of this is not an example of a physical change",
+      "options": ["rusting", "breaking", "freezing", "melting"],
+      "answer": "rusting"
     },
     {
       "number": 19,
-      "question": "A major advantage of democracy is that it",
-      "options": [
-        "ensures equality and protects human rights",
-        "discourages public debate",
-        "allows military control of government",
-        "abolishes the legislature"
-      ],
-      "answer": "ensures equality and protects human rights"
+      "question": "Which of the changes has no variation in mass?",
+      "options": ["Chemical change", "Temporary change", "Permanent change", "Physical change"],
+      "answer": "Physical change"
     },
     {
       "number": 20,
-      "question": "One of the merits of democracy is that it",
-      "options": [
-        "promotes peaceful change of government through elections",
-        "depends solely on the ruler’s decision",
-        "allows only one political party",
-        "discourages political participation"
-      ],
-      "answer": "promotes peaceful change of government through elections"
+      "question": "One of this is the boiling point of water",
+      "options": ["80°C", "100°C", "180°C", "120°C"],
+      "answer": "100°C"
     },
     {
       "number": 21,
-      "question": "Political culture can best be defined as",
-      "options": [
-        "the system of government practiced in a country",
-        "the totality of people’s attitudes, beliefs, and values toward politics and government",
-        "the political party system in a nation",
-        "the method of electing leaders"
-      ],
-      "answer": "the totality of people’s attitudes, beliefs, and values toward politics and government"
+      "question": "Cooking is an example of",
+      "options": ["chemical change", "physical change", "domestic change", "colour change"],
+      "answer": "chemical change"
     },
     {
       "number": 22,
-      "question": "Which of the following is not a component of political culture?",
-      "options": [
-        "Cognitive orientation",
-        "Affective orientation",
-        "Evaluative orientation",
-        "Legislative orientation"
-      ],
-      "answer": "Legislative orientation"
+      "question": "One of this is not a pharmaceutical chemical",
+      "options": ["insulin", "glucophage", "chlorine", "antibiotics"],
+      "answer": "chlorine"
     },
     {
       "number": 23,
-      "question": "The component of political culture that relates to people’s knowledge and understanding of political institutions is called",
-      "options": [
-        "affective orientation",
-        "cognitive orientation",
-        "evaluative orientation",
-        "emotional orientation"
-      ],
-      "answer": "cognitive orientation"
+      "question": "One of this is not an agro-chemical",
+      "options": ["deodorant", "pesticide", "insecticide", "fungicide"],
+      "answer": "deodorant"
     },
     {
       "number": 24,
-      "question": "The aspect of political culture that involves people’s feelings and emotional attachment to political symbols and institutions is",
-      "options": [
-        "cognitive orientation",
-        "evaluative orientation",
-        "affective orientation",
-        "normative orientation"
-      ],
-      "answer": "affective orientation"
+      "question": "One of the following is a hazardous chemical",
+      "options": ["paracetamol", "powder", "bromine", "methanol"],
+      "answer": "bromine"
     },
     {
       "number": 25,
-      "question": "Which of the following is a determinant of political culture?",
+      "question": "One of the following is not a safety measure",
       "options": [
-        "Political apathy",
-        "Historical experience",
-        "Political indoctrination",
-        "Voter registration"
+        "Wearing of safety glasses",
+        "Adhere to the manufacturers instruction",
+        "Avoid the use of chemicals",
+        "Wear protective gloves"
       ],
-      "answer": "Historical experience"
+      "answer": "Avoid the use of chemicals"
     },
     {
       "number": 26,
-      "question": "The family, school, and peer groups help in shaping the political culture of an individual through",
+      "question": "First aid is best defined as",
       "options": [
-        "political socialization",
-        "political manipulation",
-        "political repression",
-        "political indoctrination"
+        "The medicine given in hospitals",
+        "The immediate care given to a sick or injured person before medical help arrives",
+        "A surgical operation",
+        "A hospital treatment"
       ],
-      "answer": "political socialization"
+      "answer": "The immediate care given to a sick or injured person before medical help arrives"
     },
     {
       "number": 27,
-      "question": "Which of the following factors may influence the political culture of a nation?",
-      "options": [
-        "Economic development",
-        "Religious beliefs",
-        "Level of education",
-        "All of the above"
-      ],
-      "answer": "All of the above"
+      "question": "The main aim of first aid is to",
+      "options": ["Cure all diseases", "Save life and prevent condition from worsening", "Replace hospital care", "Delay treatment"],
+      "answer": "Save life and prevent condition from worsening"
     },
     {
       "number": 28,
-      "question": "For democracy to succeed, citizens must",
-      "options": [
-        "be indifferent to government policies",
-        "show political apathy",
-        "participate actively in politics",
-        "avoid criticizing government actions"
-      ],
-      "answer": "participate actively in politics"
+      "question": "One of the objectives of first aid is to",
+      "options": ["Cause pain", "Promote quick recovery", "Increase bleeding", "Ignore the victim"],
+      "answer": "Promote quick recovery"
     },
     {
       "number": 29,
-      "question": "Which of the following is a condition necessary for a successful democracy?",
-      "options": [
-        "Absence of opposition parties",
-        "Freedom of speech and association",
-        "Control of the press by government",
-        "Lifetime tenure for leaders"
-      ],
-      "answer": "Freedom of speech and association"
+      "question": "Which of the following is a material found in a first aid box?",
+      "options": ["Paint brush", "Bandage", "Screw driver", "Hammer"],
+      "answer": "Bandage"
     },
     {
       "number": 30,
-      "question": "One major condition for the stability of democracy is",
-      "options": [
-        "illiteracy of the masses",
-        "respect for the rule of law",
-        "dominance of the military",
-        "lack of accountability"
-      ],
-      "answer": "respect for the rule of law"
+      "question": "Which of these should NOT be found in a first aid box?",
+      "options": ["Cotton wool", "Razor blade", "Bread knife", "Scissors"],
+      "answer": "Bread knife"
     },
     {
       "number": 31,
-      "question": "A political culture that supports tolerance, participation, and respect for individual rights is known as",
-      "options": [
-        "parochial political culture",
-        "participant political culture",
-        "subject political culture",
-        "authoritarian political culture"
-      ],
-      "answer": "participant political culture"
+      "question": "The container that holds first aid materials is called?",
+      "options": ["Medicine cabinet", "First aid box", "Lunch box", "Dressing table"],
+      "answer": "First aid box"
     },
     {
       "number": 32,
-      "question": "Power in political science can best be defined as",
-      "options": [
-        "the ability to influence others to do what they would not ordinarily do",
-        "the right to rule over others legally",
-        "the exercise of force by the military",
-        "the ability to make laws"
-      ],
-      "answer": "the ability to influence others to do what they would not ordinarily do"
+      "question": "Antiseptic in a first aid box is used for",
+      "options": ["Cleaning wounds to prevent infection", "Drinking when tired", "Washing clothes", "Polishing tables"],
+      "answer": "Cleaning wounds to prevent infection"
     },
     {
       "number": 33,
-      "question": "Which of the following is not a form of power?",
-      "options": [
-        "Political power",
-        "Economic power",
-        "Physical power",
-        "Legislative authority"
-      ],
-      "answer": "Legislative authority"
+      "question": "Bandage is used to",
+      "options": ["Hold a dressing in place", "Wash wounds", "Write names", "Paint walls"],
+      "answer": "Hold a dressing in place"
     },
     {
       "number": 34,
-      "question": "The type of power that depends on wealth and control of resources is called",
+      "question": "The application of simple first aid involves",
       "options": [
-        "coercive power",
-        "economic power",
-        "political power",
-        "traditional power"
+        "Running away from the injured",
+        "Using materials to stop bleeding, prevent shock, and relieve pain",
+        "Waiting for a doctor",
+        "Watching the victim only"
       ],
-      "answer": "economic power"
+      "answer": "Using materials to stop bleeding, prevent shock, and relieve pain"
     },
     {
       "number": 35,
-      "question": "Authority can be defined as",
-      "options": [
-        "power that is legally and socially recognized as rightful",
-        "the ability to compel obedience through threats",
-        "the control of resources and wealth",
-        "the capacity to manipulate people’s opinions"
-      ],
-      "answer": "power that is legally and socially recognized as rightful"
+      "question": "Before giving first aid, the first thing to do is to",
+      "options": ["Panic", "Check for danger and ensure safety", "Leave the scene", "Call a friend"],
+      "answer": "Check for danger and ensure safety"
     },
     {
       "number": 36,
-      "question": "Which of the following is not a kind of authority identified by Max Weber?",
-      "options": [
-        "Traditional authority",
-        "Rational-legal authority",
-        "Charismatic authority",
-        "Coercive authority"
-      ],
-      "answer": "Coercive authority"
+      "question": "The term rescue operation means",
+      "options": ["Cooking food", "Helping people escape from danger or accident situations", "Planting trees", "Carrying loads"],
+      "answer": "Helping people escape from danger or accident situations"
     },
     {
       "number": 37,
-      "question": "Traditional authority is based mainly on",
-      "options": [
-        "personal qualities of a leader",
-        "established customs and traditions",
-        "written constitutional laws",
-        "the use of military force"
-      ],
-      "answer": "established customs and traditions"
+      "question": "The main objective of rescue operation is to",
+      "options": ["Save lives and prevent further harm", "Destroy property", "Delay help", "Cause panic"],
+      "answer": "Save lives and prevent further harm"
     },
     {
       "number": 38,
-      "question": "Charismatic authority is derived from",
-      "options": [
-        "the personal appeal and extraordinary qualities of a leader",
-        "the constitution and legal framework",
-        "the power of the ruling class",
-        "the control of the economy"
-      ],
-      "answer": "the personal appeal and extraordinary qualities of a leader"
+      "question": "Rescue workers must have",
+      "options": ["Courage and quick thinking", "Laziness and fear", "Anger and impatience", "Ignorance"],
+      "answer": "Courage and quick thinking"
     },
     {
       "number": 39,
-      "question": "De-facto authority refers to",
-      "options": [
-        "authority based on legal recognition",
-        "authority exercised by someone who holds power without legal backing",
-        "authority derived from traditional institutions",
-        "authority granted by the constitution"
-      ],
-      "answer": "authority exercised by someone who holds power without legal backing"
+      "question": "One type of rescue operation is",
+      "options": ["Fire rescue", "Cooking rescue", "Sports rescue", "Water fetching"],
+      "answer": "Fire rescue"
     },
     {
       "number": 40,
-      "question": "De-jure authority is",
-      "options": [
-        "authority held by a person recognized by law",
-        "authority gained through military takeover",
-        "authority based on popular charisma",
-        "authority derived from force and coercion"
-      ],
-      "answer": "authority held by a person recognized by law"
+      "question": "A fire rescue operation involves",
+      "options": ["Removing victims from burning buildings", "Fishing in rivers", "Cleaning windows", "Playing with candles"],
+      "answer": "Removing victims from burning buildings"
     },
     {
       "number": 41,
-      "question": "Legitimacy in government refers to",
-      "options": [
-        "the acceptance of government’s rule as right and just by the people",
-        "the ability of government to maintain law and order",
-        "the use of power by force",
-        "the presence of opposition parties"
-      ],
-      "answer": "the acceptance of government’s rule as right and just by the people"
+      "question": "A water rescue operation deals with",
+      "options": ["Accident victims on the road", "Drowning victims", "Farmers", "Traffic officers"],
+      "answer": "Drowning victims"
     },
     {
       "number": 42,
-      "question": "Feudalism can best be described as a system of government in which",
+      "question": "The materials used for rescue operations include",
       "options": [
-        "power is derived from the people",
-        "land is owned by feudal lords and worked by serfs",
-        "everyone owns equal portions of land",
-        "political power rests on written constitution"
+        "Rope, stretcher, ladder, and first aid kit",
+        "Knife, hammer, and saw",
+        "Pens and books",
+        "Television and phone"
       ],
-      "answer": "land is owned by feudal lords and worked by serfs"
+      "answer": "Rope, stretcher, ladder, and first aid kit"
     },
     {
       "number": 43,
-      "question": "Which of the following was the major feature of feudalism?",
-      "options": [
-        "Centralized authority and equality",
-        "Ownership of land by peasants",
-        "Loyalty of vassals to their lords",
-        "Separation of power"
-      ],
-      "answer": "Loyalty of vassals to their lords"
+      "question": "A stretcher is used to",
+      "options": ["Carry an injured person safely", "Sweep the floor", "Fetch water", "Paint walls"],
+      "answer": "Carry an injured person safely"
     },
     {
       "number": 44,
-      "question": "In a feudal system, the serfs were expected to",
-      "options": [
-        "control the armies of their lords",
-        "till the land and serve their lords",
-        "make laws for the community",
-        "participate in national elections"
-      ],
-      "answer": "till the land and serve their lords"
+      "question": "Wood is used for making",
+      "options": ["Bottles and tiles", "Furniture and doors", "Glass and cups", "Wires and cables"],
+      "answer": "Furniture and doors"
     },
     {
       "number": 45,
-      "question": "The political relationship between the lord and the vassal in feudalism was based mainly on",
-      "options": [
-        "religious tolerance",
-        "mutual protection and service",
-        "equality and justice",
-        "parliamentary authority"
-      ],
-      "answer": "mutual protection and service"
+      "question": "Metal is commonly used to make",
+      "options": ["Clothes", "Machines, tools, and roofing sheets", "Paper", "Food"],
+      "answer": "Machines, tools, and roofing sheets"
     },
     {
       "number": 46,
-      "question": "Which of the following best defines communalism?",
-      "options": [
-        "A system where wealth is privately owned",
-        "A system where land and resources are communally owned and shared",
-        "A government based on aristocracy",
-        "A society governed by military rulers"
-      ],
-      "answer": "A system where land and resources are communally owned and shared"
+      "question": "Ceramics are used for",
+      "options": ["Making food", "Making plates, cups, and tiles", "Making shoes", "Building bridges"],
+      "answer": "Making plates, cups, and tiles"
     },
     {
       "number": 47,
-      "question": "In traditional African society, communalism was based on",
-      "options": [
-        "individualism and competition",
-        "equality and shared ownership",
-        "capitalism and private property",
-        "military conquest"
-      ],
-      "answer": "equality and shared ownership"
+      "question": "Which of the following is a property of wood?",
+      "options": ["Hard and fibrous", "Transparent", "Elastic", "Metallic"],
+      "answer": "Hard and fibrous"
     },
     {
       "number": 48,
-      "question": "One major advantage of communalism is that it",
-      "options": [
-        "encourages selfishness among members",
-        "promotes unity and cooperation",
-        "reduces the sense of belonging",
-        "supports exploitation of others"
-      ],
-      "answer": "promotes unity and cooperation"
+      "question": "Metals are good conductors of",
+      "options": ["Light", "Sound and heat", "Wind", "Cold"],
+      "answer": "Sound and heat"
     },
     {
       "number": 49,
-      "question": "Which of the following was a key economic feature of communalism?",
-      "options": [
-        "Exchange of goods through money",
-        "Joint ownership of land and resources",
-        "Individual accumulation of wealth",
-        "Industrial specialization"
-      ],
-      "answer": "Joint ownership of land and resources"
+      "question": "Ceramics are usually",
+      "options": ["Soft and flexible", "Hard and brittle", "Elastic and shiny", "Smooth and metallic"],
+      "answer": "Hard and brittle"
     },
     {
       "number": 50,
-      "question": "A major difference between feudalism and communalism is that",
-      "options": [
-        "feudalism is based on land ownership by lords, while communalism is based on shared ownership",
-        "both promote equal distribution of land",
-        "feudalism exists only in Africa, communalism in Europe",
-        "both are forms of democratic systems"
-      ],
-      "answer": "feudalism is based on land ownership by lords, while communalism is based on shared ownership"
+      "question": "The main reason for learning first aid and rescue operations is to",
+      "options": ["Help people in emergencies", "Wait for doctors", "Avoid helping", "Cause panic"],
+      "answer": "Help people in emergencies"
     }
   ]
