@@ -2,301 +2,301 @@
     {
       "number": 1,
       "question": "God is a ______.",
-      "options": ["A. Man", "B. Spirit", "C. Tree", "D. Stone"],
-      "answer": "B"
+      "options": ["Man", "Spirit", "Tree", "Stone"],
+      "answer": "Spirit"
     },
     {
       "number": 2,
       "question": "The Supreme Being who created heaven and earth is ______.",
-      "options": ["A. Angel", "B. Man", "C. Prophet", "D. God"],
-      "answer": "D"
+      "options": ["Angel", "Man", "Prophet", "God"],
+      "answer": "God"
     },
     {
       "number": 3,
       "question": "One of the attributes of God is that He is all-powerful. This means He is ______.",
-      "options": ["A. Omnipotent", "B. Omniscient", "C. Omnipresent", "D. Merciful"],
-      "answer": "A"
+      "options": ["Omnipotent", "Omniscient", "Omnipresent", "Merciful"],
+      "answer": "Omnipotent"
     },
     {
       "number": 4,
       "question": "God knows everything. This means He is ______.",
-      "options": ["A. Omniscient", "B. Omnipotent", "C. Omnipresent", "D. Holy"],
-      "answer": "A"
+      "options": ["Omniscient", "Omnipotent", "Omnipresent", "Holy"],
+      "answer": "Omniscient"
     },
     {
       "number": 5,
       "question": "God is present everywhere at the same time. This means He is ______.",
-      "options": ["A. Omniscient", "B. Holy", "C. Omnipresent", "D. Just"],
-      "answer": "C"
+      "options": ["Omniscient", "Holy", "Omnipresent", "Just"],
+      "answer": "Omnipresent"
     },
     {
       "number": 6,
       "question": "God has no beginning and no end. He is ______.",
-      "options": ["A. Faithful", "B. Eternal", "C. Holy", "D. Merciful"],
-      "answer": "B"
+      "options": ["Faithful", "Eternal", "Holy", "Merciful"],
+      "answer": "Eternal"
     },
     {
       "number": 7,
       "question": "God always keeps His promises. This means He is ______.",
-      "options": ["A. Faithful", "B. Kind", "C. Merciful", "D. Just"],
-      "answer": "A"
+      "options": ["Faithful", "Kind", "Merciful", "Just"],
+      "answer": "Faithful"
     },
     {
       "number": 8,
       "question": "The quality of God that makes Him pure and without sin is ______.",
-      "options": ["A. Love", "B. Justice", "C. Holiness", "D. Mercy"],
-      "answer": "C"
+      "options": ["Love", "Justice", "Holiness", "Mercy"],
+      "answer": "Holiness"
     },
     {
       "number": 9,
       "question": "God forgives those who repent. This shows that He is ______.",
-      "options": ["A. Holy", "B. Faithful", "C. Eternal", "D. Merciful"],
-      "answer": "D"
+      "options": ["Holy", "Faithful", "Eternal", "Merciful"],
+      "answer": "Merciful"
     },
     {
       "number": 10,
       "question": "God created everything in heaven and on earth. This means He is the ______.",
-      "options": ["A. King", "B. Creator", "C. Prophet", "D. Savior"],
-      "answer": "B"
+      "options": ["King", "Creator", "Prophet", "Savior"],
+      "answer": "Creator"
     },
     {
       "number": 11,
       "question": "God created human beings mainly to ______.",
-      "options": ["A. Fight with animals", "B. Worship and serve Him", "C. Build cities", "D. Travel around the world"],
-      "answer": "B"
+      "options": ["Fight with animals", "Worship and serve Him", "Build cities", "Travel around the world"],
+      "answer": "Worship and serve Him"
     },
     {
       "number": 12,
       "question": "One of the reasons God created man was to ______.",
-      "options": ["A. Make weapons", "B. Live alone", "C. Disobey His commands", "D. Have fellowship with Him"],
-      "answer": "D"
+      "options": ["Make weapons", "Live alone", "Disobey His commands", "Have fellowship with Him"],
+      "answer": "Have fellowship with Him"
     },
     {
       "number": 13,
       "question": "God gave man authority to ______.",
-      "options": ["A. Rule over all other creatures", "B. Hide from animals", "C. Destroy the earth", "D. Live in fear"],
-      "answer": "A"
+      "options": ["Rule over all other creatures", "Hide from animals", "Destroy the earth", "Live in fear"],
+      "answer": "Rule over all other creatures"
     },
     {
       "number": 14,
       "question": "Marriage is the union between ______.",
-      "options": ["A. Two friends", "B. A man and a woman", "C. Two brothers", "D. Parents and children"],
-      "answer": "B"
+      "options": ["Two friends", "A man and a woman", "Two brothers", "Parents and children"],
+      "answer": "A man and a woman"
     },
     {
       "number": 15,
       "question": "The type of marriage conducted in the church is called ______.",
-      "options": ["A. Traditional marriage", "B. Civil marriage", "C. Christian marriage", "D. Muslim marriage"],
-      "answer": "C"
+      "options": ["Traditional marriage", "Civil marriage", "Christian marriage", "Muslim marriage"],
+      "answer": "Christian marriage"
     },
     {
       "number": 16,
       "question": "The type of marriage conducted according to the custom of a tribe is ______.",
-      "options": ["A. Customary marriage", "B. Civil marriage", "C. Church marriage", "D. Modern marriage"],
-      "answer": "A"
+      "options": ["Customary marriage", "Civil marriage", "Church marriage", "Modern marriage"],
+      "answer": "Customary marriage"
     },
     {
       "number": 17,
       "question": "The marriage conducted and recognized by the law court or registry is ______.",
-      "options": ["A. Customary marriage", "B. Civil marriage", "C. Christian marriage", "D. Spiritual marriage"],
-      "answer": "B"
+      "options": ["Customary marriage", "Civil marriage", "Christian marriage", "Spiritual marriage"],
+      "answer": "Civil marriage"
     },
     {
       "number": 18,
       "question": "One of the main functions of marriage is ______.",
-      "options": ["A. To cause quarrels", "B. To travel abroad", "C. To make people rich", "D. To reproduce and raise godly children"],
-      "answer": "D"
+      "options": ["To cause quarrels", "To travel abroad", "To make people rich", "To reproduce and raise godly children"],
+      "answer": "To reproduce and raise godly children"
     },
     {
       "number": 19,
       "question": "Marriage provides ______ for husband and wife.",
-      "options": ["A. Competition", "B. Envy", "C. Companionship", "D. Anger"],
-      "answer": "C"
+      "options": ["Competition", "Envy", "Companionship", "Anger"],
+      "answer": "Companionship"
     },
     {
       "number": 20,
       "question": "A major benefit of marriage is that it promotes ______ in the family.",
-      "options": ["A. Division", "B. Violence", "C. Hatred", "D. Peace and unity"],
-      "answer": "D"
+      "options": ["Division", "Violence", "Hatred", "Peace and unity"],
+      "answer": "Peace and unity"
     },
     {
       "number": 21,
       "question": "Through marriage, the family name is ______.",
-      "options": ["A. Forgotten", "B. Continued", "C. Destroyed", "D. Changed"],
-      "answer": "B"
+      "options": ["Forgotten", "Continued", "Destroyed", "Changed"],
+      "answer": "Continued"
     },
     {
       "number": 22,
       "question": "One of the benefits of marriage according to the Bible is ______.",
-      "options": ["A. It fulfills God’s command to multiply", "B. It makes people lazy", "C. It stops people from working", "D. It encourages disobedience"],
-      "answer": "A"
+      "options": ["It fulfills God’s command to multiply", "It makes people lazy", "It stops people from working", "It encourages disobedience"],
+      "answer": "It fulfills God’s command to multiply"
     },
     {
       "number": 23,
       "question": "Disobedience means ______.",
-      "options": ["A. Doing what is right", "B. Helping others", "C. Obeying parents", "D. Refusing to follow instructions"],
-      "answer": "D"
+      "options": ["Doing what is right", "Helping others", "Obeying parents", "Refusing to follow instructions"],
+      "answer": "Refusing to follow instructions"
     },
     {
       "number": 24,
       "question": "The first people who disobeyed God were ______.",
-      "options": ["A. Noah and his sons", "B. Abraham and Sarah", "C. Adam and Eve", "D. Moses and Aaron"],
-      "answer": "C"
+      "options": ["Noah and his sons", "Abraham and Sarah", "Adam and Eve", "Moses and Aaron"],
+      "answer": "Adam and Eve"
     },
     {
       "number": 25,
       "question": "Adam and Eve disobeyed God by ______.",
-      "options": ["A. Eating the forbidden fruit", "B. Building a city", "C. Naming the animals", "D. Praying too long"],
-      "answer": "A"
+      "options": ["Eating the forbidden fruit", "Building a city", "Naming the animals", "Praying too long"],
+      "answer": "Eating the forbidden fruit"
     },
     {
       "number": 26,
       "question": "One result of disobedience to God is ______.",
-      "options": ["A. Blessing", "B. Promotion", "C. Punishment", "D. Reward"],
-      "answer": "C"
+      "options": ["Blessing", "Promotion", "Punishment", "Reward"],
+      "answer": "Punishment"
     },
     {
       "number": 27,
       "question": "To avoid disobedience, we should ______.",
-      "options": ["A. Always obey God’s word", "B. Ignore our teachers", "C. Disobey our parents", "D. Follow bad friends"],
-      "answer": "A"
+      "options": ["Always obey God’s word", "Ignore our teachers", "Disobey our parents", "Follow bad friends"],
+      "answer": "Always obey God’s word"
     },
     {
       "number": 28,
       "question": "Learners’ disobedience means ______.",
-      "options": ["A. Doing what is right", "B. Refusing to obey school rules and authorities", "C. Obeying parents and teachers", "D. Helping other students"],
-      "answer": "B"
+      "options": ["Doing what is right", "Refusing to obey school rules and authorities", "Obeying parents and teachers", "Helping other students"],
+      "answer": "Refusing to obey school rules and authorities"
     },
     {
       "number": 29,
       "question": "One example of learners’ disobedience is ______.",
-      "options": ["A. Coming to school early", "B. Doing homework regularly", "C. Listening to teachers", "D. Fighting and quarreling in school"],
-      "answer": "D"
+      "options": ["Coming to school early", "Doing homework regularly", "Listening to teachers", "Fighting and quarreling in school"],
+      "answer": "Fighting and quarreling in school"
     },
     {
       "number": 30,
       "question": "A common consequence of disobedience in school is ______.",
-      "options": ["A. Praise and reward", "B. Punishment or suspension", "C. Promotion", "D. Celebration"],
-      "answer": "B"
+      "options": ["Praise and reward", "Punishment or suspension", "Promotion", "Celebration"],
+      "answer": "Punishment or suspension"
     },
     {
       "number": 31,
       "question": "Disobedient learners often lose ______.",
-      "options": ["A. Friends and teachers’ trust", "B. School uniforms", "C. Books and pens", "D. Examination hall"],
-      "answer": "A"
+      "options": ["Friends and teachers’ trust", "School uniforms", "Books and pens", "Examination hall"],
+      "answer": "Friends and teachers’ trust"
     },
     {
       "number": 32,
       "question": "God wants learners to be ______.",
-      "options": ["A. Lazy", "B. Disobedient", "C. Obedient and respectful", "D. Proud"],
-      "answer": "C"
+      "options": ["Lazy", "Disobedient", "Obedient and respectful", "Proud"],
+      "answer": "Obedient and respectful"
     },
     {
       "number": 33,
       "question": "What is disobedience against national law?",
-      "options": ["A. Following all the rules of the country", "B. Refusing to obey the laws made by the government", "C. Helping the police enforce the law", "D. Respecting leaders and elders"],
-      "answer": "B"
+      "options": ["Following all the rules of the country", "Refusing to obey the laws made by the government", "Helping the police enforce the law", "Respecting leaders and elders"],
+      "answer": "Refusing to obey the laws made by the government"
     },
     {
       "number": 34,
       "question": "Which of the following is an example of disobedience against national law?",
-      "options": ["A. Paying taxes regularly", "B. Crossing the road at a zebra crossing", "C. Reporting a crime to the police", "D. Stealing public property"],
-      "answer": "D"
+      "options": ["Paying taxes regularly", "Crossing the road at a zebra crossing", "Reporting a crime to the police", "Stealing public property"],
+      "answer": "Stealing public property"
     },
     {
       "number": 35,
       "question": "What can happen when people disobey national laws?",
-      "options": ["A. There is disorder and punishment", "B. The country becomes more peaceful", "C. Everyone becomes rich", "D. The government gives them awards"],
-      "answer": "A"
+      "options": ["There is disorder and punishment", "The country becomes more peaceful", "Everyone becomes rich", "The government gives them awards"],
+      "answer": "There is disorder and punishment"
     },
     {
       "number": 36,
       "question": "Why should citizens obey national laws?",
-      "options": ["A. To maintain peace and order in society", "B. To make the government afraid", "C. To avoid working hard", "D. To disobey the police"],
-      "answer": "A"
+      "options": ["To maintain peace and order in society", "To make the government afraid", "To avoid working hard", "To disobey the police"],
+      "answer": "To maintain peace and order in society"
     },
     {
       "number": 37,
       "question": "Who is responsible for making and enforcing national laws in Nigeria?",
-      "options": ["A. Traditional rulers only", "B. Teachers and students", "C. The government and law enforcement agencies", "D. Religious leaders"],
-      "answer": "C"
+      "options": ["Traditional rulers only", "Teachers and students", "The government and law enforcement agencies", "Religious leaders"],
+      "answer": "The government and law enforcement agencies"
     },
     {
       "number": 38,
       "question": "What does reconciliation mean in Christian Religious Studies?",
-      "options": ["A. Separation from friends", "B. Restoring a broken relationship between people or between humans and God", "C. Arguing with others about religion", "D. Refusing to forgive someone"],
-      "answer": "B"
+      "options": ["Separation from friends", "Restoring a broken relationship between people or between humans and God", "Arguing with others about religion", "Refusing to forgive someone"],
+      "answer": "Restoring a broken relationship between people or between humans and God"
     },
     {
       "number": 39,
       "question": "According to the Bible, who reconciled human beings to God?",
-      "options": ["A. Moses", "B. Elijah", "C. Jesus Christ", "D. John the Baptist"],
-      "answer": "C"
+      "options": ["Moses", "Elijah", "Jesus Christ", "John the Baptist"],
+      "answer": "Jesus Christ"
     },
     {
       "number": 40,
       "question": "In the story of the Prodigal Son (Luke 15:11–32), reconciliation took place when:",
-      "options": ["A. The son left his father’s house", "B. The father forgave and accepted his son back", "C. The son wasted all his money", "D. The son worked for strangers"],
-      "answer": "B"
+      "options": ["The son left his father’s house", "The father forgave and accepted his son back", "The son wasted all his money", "The son worked for strangers"],
+      "answer": "The father forgave and accepted his son back"
     },
     {
       "number": 41,
       "question": "What is the first step toward reconciliation with others?",
-      "options": ["A. Avoiding them completely", "B. Pretending nothing happened", "C. Blaming others for the problem", "D. Admitting your wrong and asking for forgiveness"],
-      "answer": "D"
+      "options": ["Avoiding them completely", "Pretending nothing happened", "Blaming others for the problem", "Admitting your wrong and asking for forgiveness"],
+      "answer": "Admitting your wrong and asking for forgiveness"
     },
     {
       "number": 42,
       "question": "Why is reconciliation important for Christians?",
-      "options": ["A. It brings peace and love among people", "B. It allows more arguments", "C. It helps us take revenge", "D. It separates people from one another"],
-      "answer": "A"
+      "options": ["It brings peace and love among people", "It allows more arguments", "It helps us take revenge", "It separates people from one another"],
+      "answer": "It brings peace and love among people"
     },
     {
       "number": 43,
       "question": "What is God called in the Ijaw language?",
-      "options": ["A. Chukwu", "B. Olodumare", "C. Abasi", "D. Oghene"],
-      "answer": "C"
+      "options": ["Chukwu", "Olodumare", "Abasi", "Oghene"],
+      "answer": "Abasi"
     },
     {
       "number": 44,
-      "question": "The Igbo people call God _______.",
-      "options": ["A. Olorun", "B. Ubangiji", "C. Ayiba", "D. Aondo"],
-      "answer": "A"
+      "question": "In the Hausa language, God is known as _______.",
+      "options": ["Abasi", "Owoicho", "Ubangiji", "Oghene"],
+      "answer": "Ubangiji"
     },
     {
       "number": 45,
-      "question": "In the Hausa language, God is known as _______.",
-      "options": ["A. Abasi", "B. Owoicho", "C. Ubangiji", "D. Oghene"],
-      "answer": "C"
+      "question": "The Igbo people call God _______.",
+      "options": ["Olorun", "Ubangiji", "Ayiba", "Aondo"],
+      "answer": "Olorun"
     },
     {
       "number": 46,
-      "question": "The Efik or Ibibio people refer to God as _______.",
-      "options": ["A. Abasi", "B. Osa", "C. Chukwu", "D. Aondo"],
-      "answer": "A"
+      "question": "The Edo (Bini) people call God _______.",
+      "options": ["Soko", "Osanobua", "Tamuno", "Aondo"],
+      "answer": "Osanobua"
     },
     {
       "number": 47,
-      "question": "The Edo (Bini) people call God _______.",
-      "options": ["A. Soko", "B. Osanobua", "C. Tamuno", "D. Aondo"],
-      "answer": "B"
+      "question": "God created the world and everything in it in how many days?",
+      "options": ["Four days", "Seven days", "Five days", "Six days"],
+      "answer": "Six days"
     },
     {
       "number": 48,
-      "question": "God created the world and everything in it in how many days?",
-      "options": ["A. four days", "B. seven days", "C. five days", "D. six days"],
-      "answer": "D"
+      "question": "On the seventh day, God _______",
+      "options": ["Created man", "Created animals", "Created the firmament", "Rested from all His work"],
+      "answer": "Rested from all His work"
     },
     {
       "number": 49,
-      "question": "On the seventh day, God _______.",
-      "options": ["A. created man", "B. created animals", "C. created the firmament", "D. rested from all His work"],
-      "answer": "D"
+      "question": "The Efik or Ibibio people refer to God as _______.",
+      "options": ["Abasi", "Osa", "Chukwu", "Aondo"],
+      "answer": "Aondo"
     },
     {
       "number": 50,
-      "question": "Man shared in God’s creation by bringing forth and also using his _____ for developing the natural resources of the earth.",
-      "options": ["A. talents", "B. wealth", "C. education", "D. advantage"],
-      "answer": "A"
+      "question": "Man shared in God’s creation by bringing forth and also using his _____ for developing the natural resources of the earth",
+      "options": ["Talents", "Wealth", "Education", "Advantage"],
+      "answer": "Talents"
     }
   ]
