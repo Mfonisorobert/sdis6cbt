@@ -1,322 +1,302 @@
 [
     {
       "number": 1,
-      "question": "One of this is not an adaptive feature of a cat fish",
-      "options": ["streamlined body", "well developed eyes", "limbs", "gills"],
-      "answer": "limbs"
+      "question": "God is a ______.",
+      "options": ["A. Man", "B. Spirit", "C. Tree", "D. Stone"],
+      "answer": "B"
     },
     {
       "number": 2,
-      "question": "One of this is not an adaptive feature of a rat",
-      "options": ["lungs", "limbs", "eyes", "streamlines body"],
-      "answer": "streamlines body"
+      "question": "The Supreme Being who created heaven and earth is ______.",
+      "options": ["A. Angel", "B. Man", "C. Prophet", "D. God"],
+      "answer": "D"
     },
     {
       "number": 3,
-      "question": "One of this is not a habitat of spirogyra",
-      "options": ["pond", "river", "clay soil", "stream"],
-      "answer": "clay soil"
+      "question": "One of the attributes of God is that He is all-powerful. This means He is ______.",
+      "options": ["A. Omnipotent", "B. Omniscient", "C. Omnipresent", "D. Merciful"],
+      "answer": "A"
     },
     {
       "number": 4,
-      "question": "One of the following is not a feature of a pigeon",
-      "options": ["possession of four limbs", "streamlined body", "wings", "beak"],
-      "answer": "possession of four limbs"
+      "question": "God knows everything. This means He is ______.",
+      "options": ["A. Omniscient", "B. Omnipotent", "C. Omnipresent", "D. Holy"],
+      "answer": "A"
     },
     {
       "number": 5,
-      "question": "A relationship whereby an organism benefits from another organism and it is not affected is called",
-      "options": ["mutualism", "commensalism", "competition", "parasitism"],
-      "answer": "commensalism"
+      "question": "God is present everywhere at the same time. This means He is ______.",
+      "options": ["A. Omniscient", "B. Holy", "C. Omnipresent", "D. Just"],
+      "answer": "C"
     },
     {
       "number": 6,
-      "question": "A relationship in which organisms benefit from each other is known as",
-      "options": ["mutualism", "predation", "parasitism", "commensalism"],
-      "answer": "mutualism"
+      "question": "God has no beginning and no end. He is ______.",
+      "options": ["A. Faithful", "B. Eternal", "C. Holy", "D. Merciful"],
+      "answer": "B"
     },
     {
       "number": 7,
-      "question": "A relationship in which one organism benefits while the host is harmed is",
-      "options": ["competition", "mutualism", "predation", "parasitism"],
-      "answer": "parasitism"
+      "question": "God always keeps His promises. This means He is ______.",
+      "options": ["A. Faithful", "B. Kind", "C. Merciful", "D. Just"],
+      "answer": "A"
     },
     {
       "number": 8,
-      "question": "The terrestrial habitats includes all except",
-      "options": ["arboreal", "soil", "pond", "under the ground"],
-      "answer": "pond"
+      "question": "The quality of God that makes Him pure and without sin is ______.",
+      "options": ["A. Love", "B. Justice", "C. Holiness", "D. Mercy"],
+      "answer": "C"
     },
     {
       "number": 9,
-      "question": "Which of the following comes first in a food chain?",
-      "options": ["Consumers", "Decomposers", "Producers", "Secondary consumers"],
-      "answer": "Producers"
+      "question": "God forgives those who repent. This shows that He is ______.",
+      "options": ["A. Holy", "B. Faithful", "C. Eternal", "D. Merciful"],
+      "answer": "D"
     },
     {
       "number": 10,
-      "question": "In the trophic levels, green plants are known as",
-      "options": ["herbivores", "producers", "omnivores", "carnivores"],
-      "answer": "producers"
+      "question": "God created everything in heaven and on earth. This means He is the ______.",
+      "options": ["A. King", "B. Creator", "C. Prophet", "D. Savior"],
+      "answer": "B"
     },
     {
       "number": 11,
-      "question": "One of the following organism is not a saprophyte",
-      "options": ["rat", "snail", "bacteria", "mushroom"],
-      "answer": "rat"
+      "question": "God created human beings mainly to ______.",
+      "options": ["A. Fight with animals", "B. Worship and serve Him", "C. Build cities", "D. Travel around the world"],
+      "answer": "B"
     },
     {
       "number": 12,
-      "question": "One of the following animals is not a primate",
-      "options": ["Man", "Gorilla", "Chimpanzee", "Elephant"],
-      "answer": "Elephant"
+      "question": "One of the reasons God created man was to ______.",
+      "options": ["A. Make weapons", "B. Live alone", "C. Disobey His commands", "D. Have fellowship with Him"],
+      "answer": "D"
     },
     {
       "number": 13,
-      "question": "All of these are characteristics of a primate except",
-      "options": ["stereoscopic vision", "they have opposable thumbs", "oviparous", "ability to stand and walk upright"],
-      "answer": "oviparous"
+      "question": "God gave man authority to ______.",
+      "options": ["A. Rule over all other creatures", "B. Hide from animals", "C. Destroy the earth", "D. Live in fear"],
+      "answer": "A"
     },
     {
       "number": 14,
-      "question": "Possession of a large well developed brain is a characteristic of",
-      "options": ["Ape", "Man", "Gorilla", "Monkey"],
-      "answer": "Man"
+      "question": "Marriage is the union between ______.",
+      "options": ["A. Two friends", "B. A man and a woman", "C. Two brothers", "D. Parents and children"],
+      "answer": "B"
     },
     {
       "number": 15,
-      "question": "Temporary developmental changes include all except",
-      "options": ["technical skills", "communication skill", "increase in height", "manual skill"],
-      "answer": "increase in height"
+      "question": "The type of marriage conducted in the church is called ______.",
+      "options": ["A. Traditional marriage", "B. Civil marriage", "C. Christian marriage", "D. Muslim marriage"],
+      "answer": "C"
     },
     {
       "number": 16,
-      "question": "One of this is not a factor that affects growth",
-      "options": ["sex", "colour", "nutrition", "heredity"],
-      "answer": "colour"
+      "question": "The type of marriage conducted according to the custom of a tribe is ______.",
+      "options": ["A. Customary marriage", "B. Civil marriage", "C. Church marriage", "D. Modern marriage"],
+      "answer": "A"
     },
     {
       "number": 17,
-      "question": "The three states of matter in ascending order of their kinetic energy are",
-      "options": ["gas – solid – water", "solid – water – gas", "water – gas – solid", "water – solid – gas"],
-      "answer": "solid – water – gas"
+      "question": "The marriage conducted and recognized by the law court or registry is ______.",
+      "options": ["A. Customary marriage", "B. Civil marriage", "C. Christian marriage", "D. Spiritual marriage"],
+      "answer": "B"
     },
     {
       "number": 18,
-      "question": "One of this is not an example of a physical change",
-      "options": ["rusting", "breaking", "freezing", "melting"],
-      "answer": "rusting"
+      "question": "One of the main functions of marriage is ______.",
+      "options": ["A. To cause quarrels", "B. To travel abroad", "C. To make people rich", "D. To reproduce and raise godly children"],
+      "answer": "D"
     },
     {
       "number": 19,
-      "question": "Which of the changes has no variation in mass?",
-      "options": ["Chemical change", "Temporary change", "Permanent change", "Physical change"],
-      "answer": "Physical change"
+      "question": "Marriage provides ______ for husband and wife.",
+      "options": ["A. Competition", "B. Envy", "C. Companionship", "D. Anger"],
+      "answer": "C"
     },
     {
       "number": 20,
-      "question": "One of this is the boiling point of water",
-      "options": ["80°C", "100°C", "180°C", "120°C"],
-      "answer": "100°C"
+      "question": "A major benefit of marriage is that it promotes ______ in the family.",
+      "options": ["A. Division", "B. Violence", "C. Hatred", "D. Peace and unity"],
+      "answer": "D"
     },
     {
       "number": 21,
-      "question": "Cooking is an example of",
-      "options": ["chemical change", "physical change", "domestic change", "colour change"],
-      "answer": "chemical change"
+      "question": "Through marriage, the family name is ______.",
+      "options": ["A. Forgotten", "B. Continued", "C. Destroyed", "D. Changed"],
+      "answer": "B"
     },
     {
       "number": 22,
-      "question": "One of this is not a pharmaceutical chemical",
-      "options": ["insulin", "glucophage", "chlorine", "antibiotics"],
-      "answer": "chlorine"
+      "question": "One of the benefits of marriage according to the Bible is ______.",
+      "options": ["A. It fulfills God’s command to multiply", "B. It makes people lazy", "C. It stops people from working", "D. It encourages disobedience"],
+      "answer": "A"
     },
     {
       "number": 23,
-      "question": "One of this is not an agro-chemical",
-      "options": ["deodorant", "pesticide", "insecticide", "fungicide"],
-      "answer": "deodorant"
+      "question": "Disobedience means ______.",
+      "options": ["A. Doing what is right", "B. Helping others", "C. Obeying parents", "D. Refusing to follow instructions"],
+      "answer": "D"
     },
     {
       "number": 24,
-      "question": "One of the following is a hazardous chemical",
-      "options": ["paracetamol", "powder", "bromine", "methanol"],
-      "answer": "bromine"
+      "question": "The first people who disobeyed God were ______.",
+      "options": ["A. Noah and his sons", "B. Abraham and Sarah", "C. Adam and Eve", "D. Moses and Aaron"],
+      "answer": "C"
     },
     {
       "number": 25,
-      "question": "One of the following is not a safety measure",
-      "options": [
-        "Wearing of safety glasses",
-        "Adhere to the manufacturers instruction",
-        "Avoid the use of chemicals",
-        "Wear protective gloves"
-      ],
-      "answer": "Avoid the use of chemicals"
+      "question": "Adam and Eve disobeyed God by ______.",
+      "options": ["A. Eating the forbidden fruit", "B. Building a city", "C. Naming the animals", "D. Praying too long"],
+      "answer": "A"
     },
     {
       "number": 26,
-      "question": "First aid is best defined as",
-      "options": [
-        "The medicine given in hospitals",
-        "The immediate care given to a sick or injured person before medical help arrives",
-        "A surgical operation",
-        "A hospital treatment"
-      ],
-      "answer": "The immediate care given to a sick or injured person before medical help arrives"
+      "question": "One result of disobedience to God is ______.",
+      "options": ["A. Blessing", "B. Promotion", "C. Punishment", "D. Reward"],
+      "answer": "C"
     },
     {
       "number": 27,
-      "question": "The main aim of first aid is to",
-      "options": ["Cure all diseases", "Save life and prevent condition from worsening", "Replace hospital care", "Delay treatment"],
-      "answer": "Save life and prevent condition from worsening"
+      "question": "To avoid disobedience, we should ______.",
+      "options": ["A. Always obey God’s word", "B. Ignore our teachers", "C. Disobey our parents", "D. Follow bad friends"],
+      "answer": "A"
     },
     {
       "number": 28,
-      "question": "One of the objectives of first aid is to",
-      "options": ["Cause pain", "Promote quick recovery", "Increase bleeding", "Ignore the victim"],
-      "answer": "Promote quick recovery"
+      "question": "Learners’ disobedience means ______.",
+      "options": ["A. Doing what is right", "B. Refusing to obey school rules and authorities", "C. Obeying parents and teachers", "D. Helping other students"],
+      "answer": "B"
     },
     {
       "number": 29,
-      "question": "Which of the following is a material found in a first aid box?",
-      "options": ["Paint brush", "Bandage", "Screw driver", "Hammer"],
-      "answer": "Bandage"
+      "question": "One example of learners’ disobedience is ______.",
+      "options": ["A. Coming to school early", "B. Doing homework regularly", "C. Listening to teachers", "D. Fighting and quarreling in school"],
+      "answer": "D"
     },
     {
       "number": 30,
-      "question": "Which of these should NOT be found in a first aid box?",
-      "options": ["Cotton wool", "Razor blade", "Bread knife", "Scissors"],
-      "answer": "Bread knife"
+      "question": "A common consequence of disobedience in school is ______.",
+      "options": ["A. Praise and reward", "B. Punishment or suspension", "C. Promotion", "D. Celebration"],
+      "answer": "B"
     },
     {
       "number": 31,
-      "question": "The container that holds first aid materials is called?",
-      "options": ["Medicine cabinet", "First aid box", "Lunch box", "Dressing table"],
-      "answer": "First aid box"
+      "question": "Disobedient learners often lose ______.",
+      "options": ["A. Friends and teachers’ trust", "B. School uniforms", "C. Books and pens", "D. Examination hall"],
+      "answer": "A"
     },
     {
       "number": 32,
-      "question": "Antiseptic in a first aid box is used for",
-      "options": ["Cleaning wounds to prevent infection", "Drinking when tired", "Washing clothes", "Polishing tables"],
-      "answer": "Cleaning wounds to prevent infection"
+      "question": "God wants learners to be ______.",
+      "options": ["A. Lazy", "B. Disobedient", "C. Obedient and respectful", "D. Proud"],
+      "answer": "C"
     },
     {
       "number": 33,
-      "question": "Bandage is used to",
-      "options": ["Hold a dressing in place", "Wash wounds", "Write names", "Paint walls"],
-      "answer": "Hold a dressing in place"
+      "question": "What is disobedience against national law?",
+      "options": ["A. Following all the rules of the country", "B. Refusing to obey the laws made by the government", "C. Helping the police enforce the law", "D. Respecting leaders and elders"],
+      "answer": "B"
     },
     {
       "number": 34,
-      "question": "The application of simple first aid involves",
-      "options": [
-        "Running away from the injured",
-        "Using materials to stop bleeding, prevent shock, and relieve pain",
-        "Waiting for a doctor",
-        "Watching the victim only"
-      ],
-      "answer": "Using materials to stop bleeding, prevent shock, and relieve pain"
+      "question": "Which of the following is an example of disobedience against national law?",
+      "options": ["A. Paying taxes regularly", "B. Crossing the road at a zebra crossing", "C. Reporting a crime to the police", "D. Stealing public property"],
+      "answer": "D"
     },
     {
       "number": 35,
-      "question": "Before giving first aid, the first thing to do is to",
-      "options": ["Panic", "Check for danger and ensure safety", "Leave the scene", "Call a friend"],
-      "answer": "Check for danger and ensure safety"
+      "question": "What can happen when people disobey national laws?",
+      "options": ["A. There is disorder and punishment", "B. The country becomes more peaceful", "C. Everyone becomes rich", "D. The government gives them awards"],
+      "answer": "A"
     },
     {
       "number": 36,
-      "question": "The term rescue operation means",
-      "options": ["Cooking food", "Helping people escape from danger or accident situations", "Planting trees", "Carrying loads"],
-      "answer": "Helping people escape from danger or accident situations"
+      "question": "Why should citizens obey national laws?",
+      "options": ["A. To maintain peace and order in society", "B. To make the government afraid", "C. To avoid working hard", "D. To disobey the police"],
+      "answer": "A"
     },
     {
       "number": 37,
-      "question": "The main objective of rescue operation is to",
-      "options": ["Save lives and prevent further harm", "Destroy property", "Delay help", "Cause panic"],
-      "answer": "Save lives and prevent further harm"
+      "question": "Who is responsible for making and enforcing national laws in Nigeria?",
+      "options": ["A. Traditional rulers only", "B. Teachers and students", "C. The government and law enforcement agencies", "D. Religious leaders"],
+      "answer": "C"
     },
     {
       "number": 38,
-      "question": "Rescue workers must have",
-      "options": ["Courage and quick thinking", "Laziness and fear", "Anger and impatience", "Ignorance"],
-      "answer": "Courage and quick thinking"
+      "question": "What does reconciliation mean in Christian Religious Studies?",
+      "options": ["A. Separation from friends", "B. Restoring a broken relationship between people or between humans and God", "C. Arguing with others about religion", "D. Refusing to forgive someone"],
+      "answer": "B"
     },
     {
       "number": 39,
-      "question": "One type of rescue operation is",
-      "options": ["Fire rescue", "Cooking rescue", "Sports rescue", "Water fetching"],
-      "answer": "Fire rescue"
+      "question": "According to the Bible, who reconciled human beings to God?",
+      "options": ["A. Moses", "B. Elijah", "C. Jesus Christ", "D. John the Baptist"],
+      "answer": "C"
     },
     {
       "number": 40,
-      "question": "A fire rescue operation involves",
-      "options": ["Removing victims from burning buildings", "Fishing in rivers", "Cleaning windows", "Playing with candles"],
-      "answer": "Removing victims from burning buildings"
+      "question": "In the story of the Prodigal Son (Luke 15:11–32), reconciliation took place when:",
+      "options": ["A. The son left his father’s house", "B. The father forgave and accepted his son back", "C. The son wasted all his money", "D. The son worked for strangers"],
+      "answer": "B"
     },
     {
       "number": 41,
-      "question": "A water rescue operation deals with",
-      "options": ["Accident victims on the road", "Drowning victims", "Farmers", "Traffic officers"],
-      "answer": "Drowning victims"
+      "question": "What is the first step toward reconciliation with others?",
+      "options": ["A. Avoiding them completely", "B. Pretending nothing happened", "C. Blaming others for the problem", "D. Admitting your wrong and asking for forgiveness"],
+      "answer": "D"
     },
     {
       "number": 42,
-      "question": "The materials used for rescue operations include",
-      "options": [
-        "Rope, stretcher, ladder, and first aid kit",
-        "Knife, hammer, and saw",
-        "Pens and books",
-        "Television and phone"
-      ],
-      "answer": "Rope, stretcher, ladder, and first aid kit"
+      "question": "Why is reconciliation important for Christians?",
+      "options": ["A. It brings peace and love among people", "B. It allows more arguments", "C. It helps us take revenge", "D. It separates people from one another"],
+      "answer": "A"
     },
     {
       "number": 43,
-      "question": "A stretcher is used to",
-      "options": ["Carry an injured person safely", "Sweep the floor", "Fetch water", "Paint walls"],
-      "answer": "Carry an injured person safely"
+      "question": "What is God called in the Ijaw language?",
+      "options": ["A. Chukwu", "B. Olodumare", "C. Abasi", "D. Oghene"],
+      "answer": "C"
     },
     {
       "number": 44,
-      "question": "Wood is used for making",
-      "options": ["Bottles and tiles", "Furniture and doors", "Glass and cups", "Wires and cables"],
-      "answer": "Furniture and doors"
+      "question": "The Igbo people call God _______.",
+      "options": ["A. Olorun", "B. Ubangiji", "C. Ayiba", "D. Aondo"],
+      "answer": "A"
     },
     {
       "number": 45,
-      "question": "Metal is commonly used to make",
-      "options": ["Clothes", "Machines, tools, and roofing sheets", "Paper", "Food"],
-      "answer": "Machines, tools, and roofing sheets"
+      "question": "In the Hausa language, God is known as _______.",
+      "options": ["A. Abasi", "B. Owoicho", "C. Ubangiji", "D. Oghene"],
+      "answer": "C"
     },
     {
       "number": 46,
-      "question": "Ceramics are used for",
-      "options": ["Making food", "Making plates, cups, and tiles", "Making shoes", "Building bridges"],
-      "answer": "Making plates, cups, and tiles"
+      "question": "The Efik or Ibibio people refer to God as _______.",
+      "options": ["A. Abasi", "B. Osa", "C. Chukwu", "D. Aondo"],
+      "answer": "A"
     },
     {
       "number": 47,
-      "question": "Which of the following is a property of wood?",
-      "options": ["Hard and fibrous", "Transparent", "Elastic", "Metallic"],
-      "answer": "Hard and fibrous"
+      "question": "The Edo (Bini) people call God _______.",
+      "options": ["A. Soko", "B. Osanobua", "C. Tamuno", "D. Aondo"],
+      "answer": "B"
     },
     {
       "number": 48,
-      "question": "Metals are good conductors of",
-      "options": ["Light", "Sound and heat", "Wind", "Cold"],
-      "answer": "Sound and heat"
+      "question": "God created the world and everything in it in how many days?",
+      "options": ["A. four days", "B. seven days", "C. five days", "D. six days"],
+      "answer": "D"
     },
     {
       "number": 49,
-      "question": "Ceramics are usually",
-      "options": ["Soft and flexible", "Hard and brittle", "Elastic and shiny", "Smooth and metallic"],
-      "answer": "Hard and brittle"
+      "question": "On the seventh day, God _______.",
+      "options": ["A. created man", "B. created animals", "C. created the firmament", "D. rested from all His work"],
+      "answer": "D"
     },
     {
       "number": 50,
-      "question": "The main reason for learning first aid and rescue operations is to",
-      "options": ["Help people in emergencies", "Wait for doctors", "Avoid helping", "Cause panic"],
-      "answer": "Help people in emergencies"
+      "question": "Man shared in God’s creation by bringing forth and also using his _____ for developing the natural resources of the earth.",
+      "options": ["A. talents", "B. wealth", "C. education", "D. advantage"],
+      "answer": "A"
     }
   ]
